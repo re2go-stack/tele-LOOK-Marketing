@@ -1,0 +1,637 @@
+<style>
+/* Elementor Theme Isolation Overrides */
+#tele-look-main-wrapper {
+    font-family: 'Manrope', sans-serif !important;
+}
+#tele-look-main-wrapper *, #tele-look-main-wrapper *::before, #tele-look-main-wrapper *::after {
+    box-sizing: border-box;
+}
+#tele-look-main-wrapper h1, 
+#tele-look-main-wrapper h2, 
+#tele-look-main-wrapper h3, 
+#tele-look-main-wrapper h4, 
+#tele-look-main-wrapper h5,
+#tele-look-main-wrapper .font-montserrat {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+/* Explicit Brand & Gradient Overrides (Elementor Protection) */
+#tele-look-main-wrapper .bg-brand { background-color: #135dff !important; }
+#tele-look-main-wrapper .text-brand { color: #135dff !important; }
+#tele-look-main-wrapper .border-brand { border-color: #135dff !important; }
+
+.dark #tele-look-main-wrapper .dark\:text-cyan-400 { color: #22d3ee !important; }
+.dark #tele-look-main-wrapper .dark\:bg-cyan-900\/30 { background-color: rgba(22, 78, 99, 0.3) !important; }
+
+/* Premium Text Gradient */
+.text-gradient {
+    background: linear-gradient(90deg, #135dff 0%, #0ea5e9 50%, #10b981 100%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
+    color: transparent !important;
+}
+.dark .text-gradient {
+    background: linear-gradient(90deg, #3b82f6 0%, #22d3ee 50%, #34d399 100%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+}
+.btn-gradient {
+    background: linear-gradient(90deg, #135dff 0%, #0ea5e9 100%) !important;
+    color: #ffffff !important;
+}
+.btn-gradient:hover {
+    background: linear-gradient(90deg, #0f4ecc 0%, #0284c7 100%) !important;
+    color: #ffffff !important;
+}
+
+.shadow-glow { box-shadow: 0 10px 30px -5px rgba(18, 93, 255, 0.15) !important; }
+.dark .shadow-glow { box-shadow: 0 10px 30px -5px rgba(18, 93, 255, 0.3) !important; }
+
+/* Glass Pill Nav Isolation */
+.glass-pill-nav { 
+    position: sticky; top: 20px; z-index: 50; max-width: fit-content; margin: 0 auto; 
+    background: rgba(255, 255, 255, 0.85) !important; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(226, 232, 240, 0.8) !important; border-radius: 50px !important; 
+    padding: 0.5rem 1rem !important; display: flex; gap: 0.5rem; 
+}
+.dark .glass-pill-nav { 
+    background: rgba(15, 23, 42, 0.85) !important; border-color: rgba(30, 41, 59, 0.8) !important; 
+    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5) !important; 
+}
+.glass-pill-nav a { color: #334155 !important; text-decoration: none !important; }
+.dark .glass-pill-nav a { color: #e2e8f0 !important; text-decoration: none !important; }
+
+/* Bento Cards Isolation */
+.bento-card {
+    background: #ffffff !important;
+    border-radius: 1.5rem !important;
+    box-shadow: 0 15px 40px -15px rgba(0,0,0,0.03) !important;
+    border: 1px solid #f8fafc !important;
+    transition: transform 0.4s ease, box-shadow 0.4s ease, background-color 0.3s ease, border-color 0.3s ease !important;
+}
+.dark .bento-card {
+    background: rgba(15, 23, 42, 0.8) !important;
+    border-color: #1e293b !important;
+    box-shadow: 0 15px 40px -15px rgba(0,0,0,0.3) !important;
+}
+.bento-card:hover {
+    transform: translateY(-8px) !important;
+    box-shadow: 0 30px 60px -15px rgba(0,0,0,0.06) !important;
+    border-color: #f1f5f9 !important;
+}
+.dark .bento-card:hover {
+    border-color: #334155 !important;
+    box-shadow: 0 30px 60px -15px rgba(0,0,0,0.5) !important;
+}
+
+/* FAQ Elementor Isolation Overrides */
+.faq-question {
+    background: transparent !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+    width: 100% !important;
+    text-align: left !important;
+    cursor: pointer !important;
+}
+.faq-question span { 
+    color: #0f172a !important; 
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 700 !important;
+}
+.dark .faq-question span { 
+    color: #f8fafc !important; 
+}
+
+.faq-icon { 
+    color: #94a3b8 !important; 
+    transition: transform 0.3s ease, color 0.3s ease !important;
+}
+.faq-item.active .faq-icon {
+    transform: rotate(180deg) !important;
+    color: #135dff !important;
+}
+.dark .faq-item.active .faq-icon {
+    color: #22d3ee !important;
+}
+
+.faq-answer { 
+    color: #475569 !important; 
+    font-family: 'Manrope', sans-serif !important;
+    line-height: 1.6 !important;
+}
+.dark .faq-answer { 
+    color: #cbd5e1 !important; 
+}
+</style>
+
+<div id="tele-look-main-wrapper" class="bg-white dark:bg-[#0f172a] text-slate-800 dark:text-slate-200">
+
+    <!-- HERO SECTION -->
+    <section class="pt-16 pb-12 relative overflow-hidden flex flex-col items-center justify-center text-center">
+        <div class="absolute w-[800px] h-[800px] top-[-300px] right-[-200px] bg-brand/10 dark:bg-cyan-900/20 rounded-full blur-[120px] pointer-events-none z-0"></div>
+        <div class="absolute w-[600px] h-[600px] bottom-[-200px] left-[-200px] bg-emerald-400/10 dark:bg-emerald-900/10 rounded-full blur-[100px] pointer-events-none z-0"></div>
+        
+        <div class="max-w-5xl mx-auto px-4 sm:px-6 w-full relative z-10">
+            <span class="inline-block bg-white dark:bg-slate-900 text-slate-800 dark:text-slate-200 text-xs font-black uppercase tracking-widest px-5 py-2 rounded-full mb-6 border border-slate-200 dark:border-slate-800 shadow-sm">
+                <span class="text-brand dark:text-cyan-400 mr-2">&bull;</span> Praxis-Ratgeber: Kundendienst &amp; Effizienz im Handwerk
+            </span>
+            <h1 class="text-4xl md:text-6xl font-montserrat font-black text-slate-900 dark:text-white leading-tight mb-6">
+                Erstdiagnose ohne Anfahrt: <br>
+                <span class="text-gradient">Wie Handwerksbetriebe Fehlfahrten vermeiden &amp; Zeit sparen.</span>
+            </h1>
+            <p class="text-lg md:text-xl text-slate-600 dark:text-slate-400 leading-relaxed mb-8 max-w-3xl mx-auto">
+                Unproduktive Ersttermine, unleserliche Typenschilder und falsche Ersatzteile im Transporter kosten Handwerksbetriebe jeden Tag wertvolle Arbeitszeit. Erfahren Sie in diesem umfassenden Leitfaden, wie die digitale Vorab-Diagnose per Smartphone im Betriebsalltag funktioniert.
+            </p>
+
+            <!-- E-E-A-T AUTHOR & REVIEW BADGE -->
+            <div class="inline-flex items-center gap-4 bg-slate-50 dark:bg-slate-800/80 px-6 py-3 rounded-2xl border border-slate-200 dark:border-slate-700 text-left mb-8 shadow-sm">
+                <div class="w-10 h-10 rounded-full bg-brand text-white flex items-center justify-center font-bold flex-shrink-0 text-sm">&#10003;</div>
+                <div>
+                    <span class="font-extrabold text-xs text-slate-900 dark:text-white block">Fachlich gepr&uuml;ft von SHK-Meistern &amp; Kundendienst-Experten</span>
+                    <span class="text-[0.75rem] text-slate-500 dark:text-slate-400">Ver&ouml;ffentlicht: 30.07.2026 | Lesezeit: ca. 6 Min. | Quelle: tele-LOOK Praxisforschung</span>
+                </div>
+            </div>
+
+            <div class="flex flex-wrap justify-center gap-3 text-xs font-bold">
+                <span class="bg-white dark:bg-slate-800 text-slate-800 dark:text-slate-200 px-4 py-2 rounded-full border border-slate-200 dark:border-slate-700 shadow-sm">&#10003; Stand: Juli 2026</span>
+                <span class="bg-white dark:bg-slate-800 text-slate-800 dark:text-slate-200 px-4 py-2 rounded-full border border-slate-200 dark:border-slate-700 shadow-sm">&#10003; DSGVO-Konform (Ohne App)</span>
+                <span class="bg-brand/10 dark:bg-cyan-900/30 text-brand dark:text-cyan-400 px-4 py-2 rounded-full border border-brand/20 dark:border-cyan-800 shadow-sm">&#10003; 0 Min Anfahrtszeit</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- GLASS PILL NAV -->
+    <nav class="glass-pill-nav mb-16 hidden md:flex" aria-label="Quick Navigation">
+        <a href="#kpis" class="px-4 py-2 text-sm font-bold rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">Fakten</a>
+        <a href="#problem" class="px-4 py-2 text-sm font-bold rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">Kostenfalle</a>
+        <a href="#definition" class="px-4 py-2 text-sm font-bold rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">Definition</a>
+        <a href="#ablauf" class="px-4 py-2 text-sm font-bold rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">Ablauf</a>
+        <a href="#vorteile" class="px-4 py-2 text-sm font-bold rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">Vorteile</a>
+        <a href="#vergleich" class="px-4 py-2 text-sm font-bold rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">Vergleich</a>
+        <a href="#faq" class="px-4 py-2 text-sm font-bold rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">FAQ</a>
+    </nav>
+
+    <!-- KPIs -->
+    <section id="kpis" class="py-12 relative z-10">
+        <div class="max-w-7xl mx-auto px-6">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- KPI 1 -->
+                <div class="bento-card p-6 flex flex-col justify-between">
+                    <div class="w-12 h-12 rounded-2xl bg-slate-50 dark:bg-slate-800 text-brand dark:text-cyan-400 flex items-center justify-center flex-shrink-0 shadow-inner border border-slate-100 dark:border-slate-700 mb-4">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+                    </div>
+                    <div class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-2">Gesparte Anfahrt</div>
+                    <div class="text-4xl font-black text-brand dark:text-cyan-400 mb-2">0 Euro</div>
+                    <div class="text-sm text-slate-600 dark:text-slate-400">Kein Sprit &amp; keine Fahrzeit f&uuml;r Erstchecks.</div>
+                </div>
+                <!-- KPI 2 -->
+                <div class="bento-card p-6 flex flex-col justify-between">
+                    <div class="w-12 h-12 rounded-2xl bg-slate-50 dark:bg-slate-800 text-amber-500 flex items-center justify-center flex-shrink-0 shadow-inner border border-slate-100 dark:border-slate-700 mb-4">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+                    </div>
+                    <div class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-2">Zeitersparnis</div>
+                    <div class="text-4xl font-black text-amber-500 mb-2">15 Min</div>
+                    <div class="text-sm text-slate-600 dark:text-slate-400">Kurzer Video-Blick statt 2h Stau &amp; Anfahrt.</div>
+                </div>
+                <!-- KPI 3 -->
+                <div class="bento-card p-6 flex flex-col justify-between">
+                    <div class="w-12 h-12 rounded-2xl bg-slate-50 dark:bg-slate-800 text-emerald-500 flex items-center justify-center flex-shrink-0 shadow-inner border border-slate-100 dark:border-slate-700 mb-4">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                    </div>
+                    <div class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-2">First-Time-Fix</div>
+                    <div class="text-4xl font-black text-emerald-500 mb-2">+ 40 %</div>
+                    <div class="text-sm text-slate-600 dark:text-slate-400">Direkt das richtige Ersatzteil im Transporter.</div>
+                </div>
+                <!-- KPI 4 -->
+                <div class="bento-card p-6 flex flex-col justify-between">
+                    <div class="w-12 h-12 rounded-2xl bg-slate-50 dark:bg-slate-800 text-brand dark:text-cyan-400 flex items-center justify-center flex-shrink-0 shadow-inner border border-slate-100 dark:border-slate-700 mb-4">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+                    </div>
+                    <div class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-2">Datenschutz</div>
+                    <div class="text-4xl font-black text-brand dark:text-cyan-400 mb-2">DSGVO</div>
+                    <div class="text-sm text-slate-600 dark:text-slate-400">100 % konform ohne private Messenger.</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 1: DIE KOSTENFALLE IM HANDWERKSALLTAG -->
+    <section id="problem" class="py-20 bg-white dark:bg-slate-900 border-t border-slate-100 dark:border-slate-800">
+        <div class="max-w-4xl mx-auto px-6">
+            <div class="mb-12">
+                <span class="inline-block px-4 py-1.5 rounded-full bg-red-100 dark:bg-red-900/30 text-red-600 dark:text-red-400 text-xs font-black uppercase tracking-widest mb-4">Problemstellung</span>
+                <h2 class="text-3xl md:text-5xl font-montserrat font-black text-slate-900 dark:text-white leading-tight mb-6">
+                    Die Kostenfalle: Warum unproduktive Anfahrten Handwerksbetriebe teuer zu stehen kommen
+                </h2>
+                <p class="text-base md:text-lg text-slate-600 dark:text-slate-400 leading-relaxed">
+                    Freitagnachmittag, 16:30 Uhr: Der Kunde ruft an. Die Heizung macht ein &bdquo;komisches Klack-Klack&ldquo; oder im Display blinkt eine St&ouml;rungsmeldung. Der Monteur f&auml;hrt 30 Kilometer durch den Feierabendverkehr &ndash; nur um vor Ort festzustellen, dass lediglich ein Ventil klemmt oder das notwendige Ersatzteil gar nicht im Transporter liegt.
+                </p>
+            </div>
+
+            <div class="space-y-8 text-slate-700 dark:text-slate-300 text-base leading-relaxed">
+                <div class="bg-slate-50 dark:bg-slate-800/60 p-8 rounded-3xl border border-slate-200/80 dark:border-slate-700">
+                    <h3 class="text-xl font-bold font-montserrat text-slate-900 dark:text-white mb-3">Rechnungsbeispiel: Was kostet 1 Stunde Fehlfahrt WIRKLICH?</h3>
+                    <p>
+                        Viele Betriebe kalkulieren Anfahrten lediglich mit den reinen Dieselkosten. Die tats&auml;chlichen Gesamtkosten einer unproduktiven Anfahrt setzen sich jedoch ganz anders zusammen:
+                    </p>
+                    <ul class="mt-4 space-y-3 text-sm">
+                        <li class="flex items-start gap-2">
+                            <span class="text-red-500 font-bold">&bull;</span>
+                            <span><strong>Arbeitszeit im Stau (ca. 75,00 &euro;):</strong> 1 Meisterstunde auf der Stra&szlig;e erzeugt 0 Euro Umsatz, muss aber voll als Personalkosten bezahlt werden.</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <span class="text-red-500 font-bold">&bull;</span>
+                            <span><strong>Entgangener Deckungsbeitrag (ca. 90,00 &euro;):</strong> In derselben Stunde h&auml;tte der Techniker einen gebuchten Kundenauftrag produktiv abarbeiten k&ouml;nnen.</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <span class="text-red-500 font-bold">&bull;</span>
+                            <span><strong>Fahrzeug- &amp; Spritkosten (ca. 25,00 &euro;):</strong> Verschlei&szlig;, Versicherung und Kraftstoff f&uuml;r den Transporter.</span>
+                        </li>
+                    </ul>
+                    <p class="mt-4 text-sm font-bold text-slate-900 dark:text-white">
+                        Ergebnis: Ein einziger unn&ouml;tiger Ersttermin verursacht schnell 150 bis 190 Euro an versteckten Betriebskosten. Bei 5 Fehlfahrten pro Woche summiert sich der Schaden im Jahr auf &uuml;ber 35.000 Euro.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 2: WAS BEDEUTET ERSTDIAGNOSE OHNE ANFAHRT? -->
+    <section id="definition" class="py-20 bg-slate-50 dark:bg-slate-900 border-t border-slate-100 dark:border-slate-800">
+        <div class="max-w-4xl mx-auto px-6">
+            <div class="mb-12">
+                <span class="inline-block px-4 py-1.5 rounded-full bg-brand/10 dark:bg-cyan-900/30 text-brand dark:text-cyan-400 text-xs font-black uppercase tracking-widest mb-4">Definition &amp; Einsatzbereiche</span>
+                <h2 class="text-3xl md:text-4xl font-montserrat font-black text-slate-900 dark:text-white leading-tight mb-6">
+                    Was genau bedeutet Erstdiagnose ohne Anfahrt im Handwerk?
+                </h2>
+                <p class="text-base text-slate-600 dark:text-slate-400 leading-relaxed">
+                    Eine Erstdiagnose ohne Anfahrt beschreibt die optische und technische Vorab-Einsch&auml;tzung eines St&ouml;rungs- oder Wartungsfalls aus der Ferne. Statt direkt einen Transporter herauszuschicken, nimmt der Fachbetrieb vorab visuell Einsicht in die Situation beim Kunden.
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-3 gap-6">
+                <div class="bento-card p-6">
+                    <div class="w-10 h-10 rounded-xl bg-brand/10 text-brand font-black flex items-center justify-center mb-4 text-sm">1</div>
+                    <h3 class="font-bold text-slate-900 dark:text-white mb-2 text-base">St&ouml;rungsdiagnose</h3>
+                    <p class="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+                        Exaktes Ablesen von Typenschildern, Fehlercodes und Druckanzeigen per Smartphone-Kamera.
+                    </p>
+                </div>
+                <div class="bento-card p-6">
+                    <div class="w-10 h-10 rounded-xl bg-brand/10 text-brand font-black flex items-center justify-center mb-4 text-sm">2</div>
+                    <h3 class="font-bold text-slate-900 dark:text-white mb-2 text-base">Arbeitsvorbereitung</h3>
+                    <p class="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+                        Feststellen, welche Ersatzteile und Werkzeuge tats&auml;chlich f&uuml;r den Termin ben&ouml;tigt werden.
+                    </p>
+                </div>
+                <div class="bento-card p-6">
+                    <div class="w-10 h-10 rounded-xl bg-brand/10 text-brand font-black flex items-center justify-center mb-4 text-sm">3</div>
+                    <h3 class="font-bold text-slate-900 dark:text-white mb-2 text-base">Selbsthilfe-Anleitung</h3>
+                    <p class="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+                        Behebung kleiner Bedienfehler (z. B. Nachf&uuml;llen von Heizungswasser) gemeinsam per Video.
+                    </p>
+                </div>
+            </div>
+
+            <!-- WARUM WHATSAPP UND E-MAIL NICHT REICHEN -->
+            <div class="mt-12 bg-white dark:bg-slate-800 p-8 rounded-3xl border border-slate-200 dark:border-slate-700">
+                <h3 class="text-xl font-bold font-montserrat text-slate-900 dark:text-white mb-4">Warum Telefonate und WhatsApp-Fotos oft scheitern</h3>
+                <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-4">
+                    Viele Betriebe versuchen, Erstinformationen per E-Mail-Foto oder Messenger einzuholen. In der Praxis sto&szlig;en diese Wege jedoch schnell an rechtliche und praktische Grenzen:
+                </p>
+                <ul class="space-y-3 text-sm text-slate-700 dark:text-slate-300">
+                    <li class="flex items-start gap-2">
+                        <span class="text-red-500 font-bold">&bull;</span>
+                        <span><strong>Verbraucher-Messenger (WhatsApp &amp; Co.):</strong> Verst&ouml;&szlig;t in der Regel eklatant gegen die Vorgaben der DSGVO, da Kundendaten und Telefonnummern auf US-Servern verarbeitet werden.</span>
+                    </li>
+                    <li class="flex items-start gap-2">
+                        <span class="text-red-500 font-bold">&bull;</span>
+                        <span><strong>E-Mail-Fotos:</strong> Zeigen oft den falschen Ausschnitt, sind unscharf oder kommen zeitverz&ouml;gert im B&uuml;ro an.</span>
+                    </li>
+                </ul>
+                <p class="mt-4 text-sm font-bold text-slate-900 dark:text-white">
+                    Die L&ouml;sung: Ein DSGVO-konformer Browser-Link wie bei <a href="https://www.tele-look.com/web/shk" target="_blank" rel="noopener" class="text-brand dark:text-cyan-400 underline font-bold">tele-LOOK f&uuml;r den SHK-Kundendienst</a> &ndash; der Kunde klickt auf die SMS, und der Meister sieht die Anlage sofort live am Monitor.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 3: SCHRITT FÜR SCHRITT ABLAUF -->
+    <section id="ablauf" class="py-20 bg-white dark:bg-slate-900 border-t border-slate-100 dark:border-slate-800">
+        <div class="max-w-4xl mx-auto px-6">
+            <div class="mb-12 text-center">
+                <span class="inline-block px-4 py-1.5 rounded-full bg-brand/10 dark:bg-cyan-900/30 text-brand dark:text-cyan-400 text-xs font-black uppercase tracking-widest mb-4">Praxis-Guide</span>
+                <h2 class="text-3xl md:text-4xl font-montserrat font-black text-slate-900 dark:text-white mb-4">
+                    Schritt f&uuml;r Schritt: So l&auml;uft die digitale Erstdiagnose ab
+                </h2>
+            </div>
+
+            <div class="space-y-6">
+                <!-- Step 1 -->
+                <div class="flex items-start gap-6 bento-card p-6">
+                    <div class="w-12 h-12 rounded-2xl bg-brand text-white font-black flex items-center justify-center flex-shrink-0 text-lg">1</div>
+                    <div>
+                        <h3 class="font-bold text-slate-900 dark:text-white text-lg mb-1">Kundenanruf &amp; SMS-Link senden</h3>
+                        <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+                            Der Kunde meldet ein Problem. Die B&uuml;rokraft schickt ihm direkt aus der Software heraus per Mausklick einen SMS-Link auf das Smartphone.
+                        </p>
+                    </div>
+                </div>
+                <!-- Step 2 -->
+                <div class="flex items-start gap-6 bento-card p-6">
+                    <div class="w-12 h-12 rounded-2xl bg-brand text-white font-black flex items-center justify-center flex-shrink-0 text-lg">2</div>
+                    <div>
+                        <h3 class="font-bold text-slate-900 dark:text-white text-lg mb-1">Klick &amp; Kamera-Start (Ohne App-Installation)</h3>
+                        <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+                            Der Kunde tippt auf den Link. Im Smartphone-Browser &ouml;ffnet sich sofort das Live-Videobild. Es ist kein App-Download oder Registrierung notwendig.
+                        </p>
+                    </div>
+                </div>
+                <!-- Step 3 -->
+                <div class="flex items-start gap-6 bento-card p-6">
+                    <div class="w-12 h-12 rounded-2xl bg-brand text-white font-black flex items-center justify-center flex-shrink-0 text-lg">3</div>
+                    <div>
+                        <h3 class="font-bold text-slate-900 dark:text-white text-lg mb-1">Live-Einsicht &amp; Dokumentation im B&uuml;ro</h3>
+                        <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+                            Der Techniker am PC sieht die Anlage, liest Typenschilder ab, erstellt hochaufl&ouml;sende Standbilder mit Notizen und bewertet den Schaden in Echtzeit.
+                        </p>
+                    </div>
+                </div>
+                <!-- Step 4 -->
+                <div class="flex items-start gap-6 bento-card p-6">
+                    <div class="w-12 h-12 rounded-2xl bg-brand text-white font-black flex items-center justify-center flex-shrink-0 text-lg">4</div>
+                    <div>
+                        <h3 class="font-bold text-slate-900 dark:text-white text-lg mb-1">Gezielte Einsatzplanung oder Sofort-L&ouml;sung</h3>
+                        <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+                            Entweder wird das kleine Problem sofort per Video gel&ouml;st &ndash; oder der Monteur f&auml;hrt mit dem exakt passenden Ersatzteil gezielt zum Ersttermin.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- VORTEILE UND SCHWERPUNKTE -->
+    <section id="vorteile" class="py-20 relative bg-slate-50 dark:bg-slate-900 border-t border-slate-100 dark:border-slate-800">
+        <div class="max-w-7xl mx-auto px-6">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl md:text-4xl font-montserrat font-black text-slate-900 dark:text-white mb-4">
+                    Die 5 wichtigsten Vorteile der digitalen Erstdiagnose
+                </h2>
+            </div>
+
+            <div class="grid lg:grid-cols-2 gap-8">
+                <!-- Vorteil 1 -->
+                <div class="bg-white dark:bg-slate-800 rounded-3xl p-8 shadow-glow border border-slate-200 dark:border-slate-700">
+                    <div class="text-xs font-black text-brand dark:text-cyan-400 uppercase tracking-widest mb-2">01. Material-Pr&auml;zision</div>
+                    <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">H&ouml;here First-Time-Fix-Rate</h3>
+                    <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+                        Wenn der Monteur schon vor dem Ersttermin wei&szlig;, welches Bauteil defekt ist, hat er das passende Ersatzteil im Transporter. Das vermeidet teure Zweitfahrten.
+                    </p>
+                </div>
+                <!-- Vorteil 2 -->
+                <div class="bg-white dark:bg-slate-800 rounded-3xl p-8 shadow-glow border border-slate-200 dark:border-slate-700">
+                    <div class="text-xs font-black text-amber-500 uppercase tracking-widest mb-2">02. Mitarbeiter-Entlastung</div>
+                    <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">Fachkr&auml;ftemangel aktiv entgegenwirken</h3>
+                    <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+                        Gute Handwerker sind knapp. Erfahren Sie in unserem Leitfaden <a href="https://www.tele-look.com/web/fachkraeftemangel-im-service/" target="_blank" rel="noopener" class="text-brand dark:text-cyan-400 underline font-bold">Fachkr&auml;ftemangel im Service entgegensteuern</a>, wie digitale Werkzeuge Ihr Team entlasten.
+                    </p>
+                </div>
+                <!-- Vorteil 3 -->
+                <div class="bg-white dark:bg-slate-800 rounded-3xl p-8 shadow-glow border border-slate-200 dark:border-slate-700">
+                    <div class="text-xs font-black text-emerald-500 uppercase tracking-widest mb-2">03. Förderfähigkeit</div>
+                    <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">BEG- &amp; KfW-Vorbereitung beschleunigen</h3>
+                    <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+                        Vorab-Bestandsaufnahmen f&uuml;r KfW-F&ouml;rderantr&auml;ge lassen sich vorab per Video dokumentieren. Lesen Sie dazu auch unseren Beitrag zur <a href="https://www.tele-look.com/web/beg-foerderung-2026-kfw-regeln-handwerk/" target="_blank" rel="noopener" class="text-brand dark:text-cyan-400 underline font-bold">BEG-F&ouml;rderung 2026 &amp; KfW-Regeln</a>.
+                    </p>
+                </div>
+                <!-- Vorteil 4 -->
+                <div class="bg-white dark:bg-slate-800 rounded-3xl p-8 shadow-glow border border-slate-200 dark:border-slate-700">
+                    <div class="text-xs font-black text-brand dark:text-cyan-400 uppercase tracking-widest mb-2">04. Digitalisierungs-F&ouml;rderung</div>
+                    <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">Software-F&ouml;rderung nutzen</h3>
+                    <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+                        Wussten Sie, dass die Anschaffung digitaler Kundendienst-Software staatlich gef&ouml;rdert werden kann? Alle Infos finden Sie unter <a href="https://www.tele-look.com/web/digitalisierungsfoerderung-software/" target="_blank" rel="noopener" class="text-brand dark:text-cyan-400 underline font-bold">Digitalisierungsf&ouml;rderung f&uuml;r Software</a>.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- PRAXIS-VERGLEICH -->
+    <section id="vergleich" class="py-24 relative bg-white dark:bg-slate-900">
+        <div class="max-w-5xl mx-auto px-6">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl md:text-4xl font-montserrat font-black text-slate-900 dark:text-white mb-4">
+                    Praxis-Vergleich: Erstbesuch vs. Remote-Check
+                </h2>
+            </div>
+
+            <div class="overflow-x-auto">
+                <table class="w-full text-left border-collapse bento-card">
+                    <thead>
+                        <tr class="border-b border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800">
+                            <th class="p-4 font-bold text-slate-900 dark:text-white">Kriterium</th>
+                            <th class="p-4 font-bold text-red-600">Klassischer Erstbesuch</th>
+                            <th class="p-4 font-bold text-emerald-600">Erstdiagnose per Live-Video</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-slate-100 dark:divide-slate-800 text-sm text-slate-700 dark:text-slate-300">
+                        <tr>
+                            <td class="p-4 font-bold">Zeitaufwand Monteur</td>
+                            <td class="p-4">1,5 bis 3 Stunden (inkl. Fahrt)</td>
+                            <td class="p-4 font-bold text-emerald-600">5 bis 15 Minuten</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold">Materialvorbereitung</td>
+                            <td class="p-4">Oft auf Verdacht / pauschal</td>
+                            <td class="p-4 font-bold text-emerald-600">Exakt nach visuellem Befund</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold">DSGVO-Konformit&auml;t</td>
+                            <td class="p-4">Ja</td>
+                            <td class="p-4 font-bold text-emerald-600">Ja (Rechtskonform ohne App)</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold">Kundenwartezeit</td>
+                            <td class="p-4">Meist mehrere Tage</td>
+                            <td class="p-4 font-bold text-emerald-600">Sofort am selben Tag</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- WEITERE INTERNE RATGEBER -->
+            <div class="mt-12 text-center bg-slate-50 dark:bg-slate-800/60 p-8 rounded-3xl border border-slate-200 dark:border-slate-700">
+                <h3 class="font-bold text-slate-900 dark:text-white text-lg mb-2">Weitere Branchen-L&ouml;sungen entdecken:</h3>
+                <div class="flex flex-wrap justify-center gap-4 text-sm font-bold mt-4">
+                    <a href="https://www.tele-look.com/web/handwerk/" target="_blank" rel="noopener" class="text-brand dark:text-cyan-400 underline">tele-LOOK f&uuml;r das Handwerk generell &rarr;</a>
+                    <a href="https://www.tele-look.com/web/shk/" target="_blank" rel="noopener" class="text-brand dark:text-cyan-400 underline">tele-LOOK f&uuml;r den SHK-Kundendienst &rarr;</a>
+                    <a href="https://www.tele-look.com/web/roi-rechner/" target="_blank" rel="noopener" class="text-brand dark:text-cyan-400 underline">Interaktiver ROI-Rechner &rarr;</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CALL TO ACTION WITH ROI RECHNER LINK -->
+    <section class="py-12 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
+        <div class="bg-brand rounded-3xl p-10 md:p-14 text-center shadow-[0_10px_40px_rgba(19,93,255,0.3)] relative overflow-hidden">
+            <div class="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(255,255,255,0.1),transparent_50%)]"></div>
+            <h2 class="text-3xl md:text-4xl font-black text-white mb-4 relative z-10">Berechnen Sie Ihr Einsparpotenzial</h2>
+            <p class="text-blue-100 text-base mb-8 max-w-2xl mx-auto relative z-10">
+                Sehen Sie direkt mit unserem ROI-Rechner, wie viele Anfahrtskosten und Arbeitsstunden Ihr Betrieb jeden Monat durch die digitale Erstdiagnose einsparen kann.
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center relative z-10">
+                <a href="https://www.tele-look.com/web/roi-rechner/" target="_blank" rel="noopener" class="inline-flex items-center justify-center gap-2 bg-white text-brand px-8 py-4 rounded-full font-bold text-sm transition-transform hover:-translate-y-1 shadow-lg">
+                    Zum ROI-Rechner &rarr;
+                </a>
+                <a href="https://www.tele-look.com" target="_blank" rel="noopener" class="inline-flex items-center justify-center gap-2 border border-white/40 text-white hover:bg-white/10 px-8 py-4 rounded-full font-bold text-sm transition-transform hover:-translate-y-1">
+                    14 Tage gratis testen
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ SECTION (SCHEMA.ORG FAQPAGE) -->
+    <section id="faq" class="py-20 bg-slate-50 dark:bg-slate-900 border-t border-slate-100 dark:border-slate-800" itemscope itemtype="https://schema.org/FAQPage">
+        <div class="max-w-3xl mx-auto px-6">
+            <div class="text-center mb-10">
+                <span class="inline-block px-4 py-1.5 rounded-full bg-brand/10 dark:bg-cyan-900/30 text-brand dark:text-cyan-400 text-xs font-black uppercase tracking-widest mb-4">H&auml;ufige Fragen</span>
+                <h2 class="text-3xl font-montserrat font-black text-slate-900 dark:text-white mb-4">Fragen zur Erstdiagnose ohne Anfahrt</h2>
+            </div>
+            
+            <!-- MANDATORY LEGAL DISCLAIMER NOTICE BOX -->
+            <div class="p-5 rounded-2xl bg-amber-50/90 dark:bg-amber-950/30 border border-amber-200/80 dark:border-amber-900/50 text-amber-900 dark:text-amber-200 text-xs leading-relaxed mb-8 flex items-start gap-3.5 shadow-sm">
+                <span class="text-xl flex-shrink-0">&#9888;&#65039;</span>
+                <div>
+                    <strong class="font-extrabold text-amber-950 dark:text-amber-100 block mb-1">Wichtiger Hinweis:</strong>
+                    tele-LOOK ist kein Beratungsunternehmen. Wir fassen nach bestem Wissen &ouml;ffentlich zug&auml;ngliche Informationen und Praxiserfahrungen zusammen. Wir &uuml;bernehmen keine Gew&auml;hr f&uuml;r die Richtigkeit oder Vollst&auml;ndigkeit. Eine Remote-Erstdiagnose dient der Arbeitsvorbereitung und ersetzt bei komplexen Gewerken nicht die rechtlich vorgeschriebene Messung vor Ort.
+                </div>
+            </div>
+
+            <div class="space-y-4">
+                <!-- FAQ 1 -->
+                <div class="faq-item bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 overflow-hidden" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                    <button class="faq-question w-full flex items-center justify-between p-6 text-left focus:outline-none">
+                        <span itemprop="name" class="font-bold text-slate-900 dark:text-white pr-4">Muss der Kunde eine App installieren?</span>
+                        <svg class="faq-icon w-6 h-6 text-slate-400 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                    </button>
+                    <div class="faq-answer hidden px-6 pb-6 text-slate-600 dark:text-slate-400 text-sm leading-relaxed" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                        <div itemprop="text">
+                            Nein. tele-LOOK l&auml;uft direkt im Smartphone-Browser des Kunden. Ein Klick auf den SMS-Link gen&uuml;gt, um die Live-Video-Verbindung sofort aufzubauen.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ 2 -->
+                <div class="faq-item bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 overflow-hidden" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                    <button class="faq-question w-full flex items-center justify-between p-6 text-left focus:outline-none">
+                        <span itemprop="name" class="font-bold text-slate-900 dark:text-white pr-4">Ist der Live-Video-Support DSGVO-konform?</span>
+                        <svg class="faq-icon w-6 h-6 text-slate-400 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                    </button>
+                    <div class="faq-answer hidden px-6 pb-6 text-slate-600 dark:text-slate-400 text-sm leading-relaxed" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                        <div itemprop="text">
+                            Ja. Im Gegensatz zu Verbraucher-Messengern wie WhatsApp werden keine pers&ouml;nlichen Daten auf privaten Smartphones gespeichert. Alle Dokumentationen und Schnappsch&uuml;sse verbleiben datenschutzkonform im System des Fachbetriebs.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ 3 -->
+                <div class="faq-item bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 overflow-hidden" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                    <button class="faq-question w-full flex items-center justify-between p-6 text-left focus:outline-none">
+                        <span itemprop="name" class="font-bold text-slate-900 dark:text-white pr-4">Wie unterst&uuml;tzt tele-LOOK den Vor-Ort-Einsatz?</span>
+                        <svg class="faq-icon w-6 h-6 text-slate-400 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                    </button>
+                    <div class="faq-answer hidden px-6 pb-6 text-slate-600 dark:text-slate-400 text-sm leading-relaxed" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                        <div itemprop="text">
+                            Der Monteur erh&auml;lt vor der Fahrt eine saubere Dokumentation mit Typenschild-Fotos und Notizen. Dadurch hat er direkt das richtige Material an Bord und schlie&szlig;t den Auftrag meist beim ersten Besuch ab.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Scripts -->
+    <script>
+        document.querySelectorAll('.faq-question').forEach(button => {
+            button.addEventListener('click', () => {
+                const faqItem = button.parentElement;
+                const faqAnswer = faqItem.querySelector('.faq-answer');
+                const faqIcon = faqItem.querySelector('.faq-icon');
+                
+                const isActive = !faqAnswer.classList.contains('hidden');
+                
+                document.querySelectorAll('.faq-answer').forEach(ans => ans.classList.add('hidden'));
+                document.querySelectorAll('.faq-item').forEach(item => item.classList.remove('active'));
+                document.querySelectorAll('.faq-icon').forEach(icon => {
+                    icon.classList.remove('rotate-180', 'text-brand', 'dark:text-cyan-400');
+                    icon.classList.add('text-slate-400');
+                });
+                
+                if (!isActive) {
+                    faqAnswer.classList.remove('hidden');
+                    faqItem.classList.add('active');
+                    faqIcon.classList.add('rotate-180', 'text-brand', 'dark:text-cyan-400');
+                    faqIcon.classList.remove('text-slate-400');
+                }
+            });
+        });
+    </script>
+
+    <!-- UNIFIED MASTER SCHEMA.ORG GRAPH -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://www.tele-look.com/#organization",
+          "name": "tele-LOOK by Solutiness",
+          "url": "https://www.tele-look.com",
+          "logo": "https://www.tele-look.com/web/wp-content/uploads/logo.png",
+          "knowsAbout": ["Erstdiagnose ohne Anfahrt", "Remote Support Handwerk", "DSGVO Video Service", "First-Time-Fix-Rate"],
+          "sameAs": ["http://www.linkedin.com/company/telelook"]
+        },
+        {
+          "@type": "TechArticle",
+          "@id": "https://www.tele-look.com/web/erstdiagnose-ohne-anfahrt-handwerk/#article",
+          "headline": "Erstdiagnose ohne Anfahrt: Wie Handwerksbetriebe Fehlfahrten vermeiden und Zeit sparen",
+          "datePublished": "2026-07-30T12:00:00+00:00",
+          "dateModified": "2026-07-30T12:00:00+00:00",
+          "description": "Anleitung zur digitalen Erstdiagnose per Live-Video im Handwerk zur Reduzierung von Anfahrtskosten und Erhoehung der Erstloesungsquote.",
+          "inLanguage": "de-DE",
+          "author": {
+            "@type": "Organization",
+            "name": "tele-LOOK Redaktion (geprueft durch SHK-Meister)"
+          },
+          "publisher": { "@id": "https://www.tele-look.com/#organization" }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://www.tele-look.com/web/erstdiagnose-ohne-anfahrt-handwerk/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Muss der Kunde eine App installieren?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nein. tele-LOOK laeuft direkt im Smartphone-Browser des Kunden. Ein Klick auf den SMS-Link genuegt."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ist der Live-Video-Support DSGVO-konform?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ja. Im Gegensatz zu Verbraucher-Messengern wie WhatsApp verbleiben alle Schnappschuesse datenschutzkonform im System des Fachbetriebs."
+              }
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+
+</div>

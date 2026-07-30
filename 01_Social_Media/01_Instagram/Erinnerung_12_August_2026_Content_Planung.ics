@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tele-LOOK Marketing//Instagram Content Planning Reminder//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Erinnerung: tele-LOOK Instagram Content-Planung (Woche 3 & 4 ab Beitrag 07)
+DTSTART:20260812T070000Z
+DTEND:20260812T073000Z
+DESCRIPTION:Erinnerung an die Fortsetzung der Instagram Content-Erstellung fuer tele-LOOK (Beitraege 07-12).\n\nAlle bisherigen Beitraege 01-06 befinden sich in der Datei: 01_Social_Media/01_Instagram/2026-08_instagram_content_plan_woche_1_2.md
+LOCATION:tele-LOOK Marketing
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: tele-LOOK Instagram Content-Planung
+END:VALARM
+END:VEVENT
+END:VCALENDAR
