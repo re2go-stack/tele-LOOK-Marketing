@@ -1,6 +1,6 @@
-# 🎨 Canva Master-Cheatsheet: Die 6 Instagram Urlaubs-Posts
+# 🎨 Canva Master-Cheatsheet: Die 6 Instagram Urlaubs-Posts (News-Jacking Edition 2026)
 
-> **Ziel:** Schneller Upload & automatische Einplanung über den **Canva Inhaltsplaner**.
+> **Regel:** Alle Posts beinhalten tagesaktuelle News-Hooks zu den Neuerungen des **Gebäudemodernisierungsgesetzes (GModG ab Juli 2026)** und den **neuen KfW-Förderrichtlinien**.
 
 ---
 
@@ -19,23 +19,24 @@
 
 ---
 
-### 1. Samstag, 01.08.2026 (09:00 Uhr) – Reel 01
+### 1. Samstag, 01.08.2026 (09:00 Uhr) – Reel 01 (GModG News Hook)
 * **Format:** Instagram Reel (9:16, 15 Sek.)
 * **Canva Template:** "Minimalist Tech / Business Reel"
 * **On-Screen Text:**  
-  *00:00 - 00:03:* `"POV: Du fährst 45 Minuten zum Kunden..."`  
-  *00:03 - 00:08:* `"Nur um festzustellen, dass eine Sicherung rausgeflogen ist."`  
-  *00:08 - 00:15:* `"Mit tele-LOOK hättest du das in 2 Minuten per Live-Video gelöst. Ohne App-Download."`
+  *00:00 - 00:03:* `"Neues Gebäudemodernisierungsgesetz seit Juli 2026..."`  
+  *00:03 - 00:08:* `"Kunden rufen stundenlang im SHK-Betrieb an: 'Was gilt jetzt bei mir?'"`  
+  *00:08 - 00:15:* `"Mit tele-LOOK schaltet sich der Meister in 60 Sek. per Video in den Heizungskeller. Ohne Anfahrt!"`
 * **Inhaltsplaner Caption:**
 ```text
-Die teuerste Fahrt der Woche... 🚗💸 
+Das neue Gebäudemodernisierungsgesetz (GModG) ist da! 🚨🔥
 
-Wer kennt’s? 45 Minuten Anfahrt, 2 Minuten vor Ort, 45 Minuten Rückfahrt. Und am Ende kann man die Zeit kaum abrechnen.
+Seit diesem Monat stürmen verunsicherte Hausbesitzer die Telefone der SHK-Betriebe. Jeder will wissen: Reicht mein Platz im Keller? Welche Förderung greift noch?
 
-Mit tele-LOOK wirfst du vorab einen kurzen Blick per Smartphone-Kamera auf das Problem – ohne dass der Kunde eine App installieren muss!
+Statt 1,5 Stunden im Auto zu sitzen, um nur 'mal kurz zu schauen':
+Mit tele-LOOK wirfst du vorab einen Blick per Live-Video auf den Heizungskeller – ohne App-Download für den Kunden!
 
-👉 Amortisiert sich ab der 1. Fahrt. Link in der Bio!
-#handwerk #shk #elektro #kundendienst #telelook #facelesssaas
+👉 Amortisiert sich ab der 1. Beratung. Link in der Bio!
+#gmodg #heizungsgesetz #shk #handwerk #telelook #wärmepumpe
 ```
 
 ---
@@ -64,21 +65,22 @@ tele-LOOK ist zu 100 % DSGVO-konform und läuft ohne App direkt im Browser.
 
 ---
 
-### 3. Mittwoch, 05.08.2026 (10:00 Uhr) – Reel 02
+### 3. Mittwoch, 05.08.2026 (10:00 Uhr) – Reel 02 (KfW Förder-Update Hook)
 * **Format:** Instagram Reel (9:16, 15 Sek.)
 * **On-Screen Text:**  
-  *00:00 - 00:03:* `"Wenn der Kunde im Notfall erst eine App herunterladen soll..."`  
-  *00:03 - 00:08:* `"tele-LOOK: 1 SMS-Link ➔ Kamera ist sofort im Browser live!"`  
-  *00:08 - 00:15:* `"0 % Hürde für den Kunden. 100 % Klarheit für den Meister."`
+  *00:00 - 00:03:* `"Neue KfW-Förderregeln ab Juli 2026..."`  
+  *00:03 - 00:08:* `"Kunde braucht sofort eine Erstdiagnose für den Förderantrag?"`  
+  *00:08 - 00:15:* `"tele-LOOK: 1 SMS-Link ➔ HD-Fotoprotokoll direkt im System!"`
 * **Inhaltsplaner Caption:**
 ```text
-Niemand hat im Notfall Zeit für App-Downloads & Registrierungen! 🙅‍♂️📱
+Achtung bei der KfW-Heizungsförderung 2026! 💶📋
 
-tele-LOOK läuft zu 100 % im Browser:
-1️⃣ SMS senden. 2️⃣ Link klicken. 3️⃣ Kamera ist live!
+Seit den Anpassungen im Juli zählt beim Förderantrag jede Dokumentation. 
+
+Mit tele-LOOK erstellst du beim Remote-Check mit 1 Klick fälschungssichere HD-Fotoprotokolle mit Zeitstempel für die Förderakte – ohne extra Anfahrt.
 
 👉 Teste es jetzt kostenlos – Link in der Bio!
-#handwerk #shk #kundenservice #telelook #vorabdiagnose
+#kfw #förderung #wärmepumpe #handwerk #telelook
 ```
 
 ---
