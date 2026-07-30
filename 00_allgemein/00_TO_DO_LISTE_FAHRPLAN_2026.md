@@ -1,7 +1,8 @@
 # 📋 Master To-Do-Liste & KW-Zeitplan 2026 (tele-LOOK Marketing)
 
 > **Status:** 🌴 **URLAUBS-MODUS (31.07. – 14.08.2026 / KW 31 - KW 33)**  
-> Alle Social-Media-Posts (Instagram, LinkedIn, Facebook) und openPR-Pressemeldungen werden heute (30.07.) vorab geplant und laufen im Urlaub **vollautomatisch auf Auto-Pilot**!
+> Alle Social-Media-Posts (Instagram, LinkedIn, Facebook) und openPR-Pressemeldungen werden heute (30.07.) vorab geplant und laufen im Urlaub **vollautomatisch auf Auto-Pilot**!  
+> *(Hinweis: OMR Reviews Bewertungs-Offensive wurde auf Oktober 2026 / KW 41 verschoben).*
 
 ---
 
@@ -17,6 +18,7 @@
 
 ### 2. Auto-Pilot Check in Canva / Meta Business Suite
 - [ ] **Heute erledigen:** Die 6 Instagram-, LinkedIn- & Facebook-Beiträge in Canva / Meta Business Suite zeitversetzt einplanen!
+- [ ] **31.07.2026 (Morgen, FR):** E-Mail an Pfeiffer & May Vertriebsleitung senden.
 
 ---
 
@@ -36,3 +38,9 @@
 - [ ] **18.08.2026 (DI):** Telefonisches Follow-Up bei Pfeiffer & May zur Pilot-Phase.
 - [ ] **19.08.2026 (MI):** Brevo E-Mail Outreach-Kampagne 1 an die recherchierten Regional-Adressen starten.
 - [ ] **20.08.2026 (DO):** LinkedIn organische Akquise-Anfragen (mit den Notiz-Vorlagen) wieder aufnehmen.
+- [ ] **25.08.2026 (DI):** **openPR Meldung 2/6** veröffentlichen (*"Wissenstransfer im Außendienst..."*).
+
+---
+
+## 🍂 KW 41 (AB MO. 12. OKTOBER 2026) – OMR REVIEWS BEWERTUNGS-OFFENSIVE
+- [ ] **12.10.2026 (MO):** 5 glücklichste Kunden gezielt anschreiben & um 5-Sterne-Bewertung auf **OMR Reviews / Capterra** bitten, um Platz-1 Google Rankings abzugreifen.
