@@ -1,0 +1,4 @@
+.DS_Store
+.tempmediaStorage/
+*.pyc
+__pycache__/

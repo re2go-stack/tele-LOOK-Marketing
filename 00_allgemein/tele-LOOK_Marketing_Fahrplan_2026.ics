@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tele-LOOK//Marketing Fahrplan 2026//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:tele-LOOK Marketing 2026
+BEGIN:VEVENT
+UID:telelook-task-1-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260730T140000
+DTEND:20260730T143000
+SUMMARY:5 Kunden für OMR Reviews & Capterra 5-Sterne anfragen
+DESCRIPTION:Kanal: Reviews & Trust | Prio: Hoch \n5 glücklichste Kunden für OMR Reviews / Capterra Bewertungen anschreiben.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: 5 Kunden für OMR Reviews & Capterra 5-Sterne anfragen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:telelook-task-2-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260730T160000
+DTEND:20260730T163000
+SUMMARY:Instagram Posts 01-06 in Canva / Meta Business Suite vorplanen
+DESCRIPTION:Kanal: Instagram / FB | Prio: Sehr Hoch \nDie 6 vorbereiteten Posts/Reels vorplanen für die Urlaubszeit (01.08. - 12.08.).
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: Instagram Posts 01-06 in Canva / Meta Business Suite vorplanen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:telelook-task-3-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260731T100000
+DTEND:20260731T103000
+SUMMARY:E-Mail an Pfeiffer & May Vertriebsleitung senden
+DESCRIPTION:Kanal: Vertriebspartner | Prio: Hoch \nPartner-Deal Vorschlag an Pfeiffer & May senden.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: E-Mail an Pfeiffer & May Vertriebsleitung senden
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:telelook-task-4-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260801T090000
+DTEND:20260801T093000
+SUMMARY:[AUTO-PILOT] Social Media Launch Post 01
+DESCRIPTION:Kanal: LinkedIn / Insta / FB | Prio: Mittel \nPost 01: Die echten Kosten der Windschutzscheiben-Zeit.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: [AUTO-PILOT] Social Media Launch Post 01
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:telelook-task-5-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260803T083000
+DTEND:20260803T090000
+SUMMARY:[AUTO-PILOT] openPR Pressemitteilung 1/6
+DESCRIPTION:Kanal: openPR Portal | Prio: Hoch \nMeldung: Fehlfahrten im SHK-Handwerk vermeiden: tele-LOOK bietet Video-Support ohne App.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: [AUTO-PILOT] openPR Pressemitteilung 1/6
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:telelook-task-6-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260803T100000
+DTEND:20260803T103000
+SUMMARY:[AUTO-PILOT] Instagram Post 02 Carousel
+DESCRIPTION:Kanal: Instagram / FB | Prio: Mittel \nPost 02: Die DSGVO-Falle WhatsApp im Kundendienst.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: [AUTO-PILOT] Instagram Post 02 Carousel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:telelook-task-7-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260805T100000
+DTEND:20260805T103000
+SUMMARY:[AUTO-PILOT] Instagram Reel 02
+DESCRIPTION:Kanal: Instagram | Prio: Mittel \nReel 02: Vorab-Diagnose ohne App-Download (SMS-Link).
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: [AUTO-PILOT] Instagram Reel 02
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:telelook-task-8-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260808T100000
+DTEND:20260808T103000
+SUMMARY:[AUTO-PILOT] Instagram Post 03 Carousel
+DESCRIPTION:Kanal: Instagram / FB | Prio: Mittel \nPost 03: Der tele-PUNKT: AR-Zeiger im Live-Bild.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: [AUTO-PILOT] Instagram Post 03 Carousel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:telelook-task-9-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260810T100000
+DTEND:20260810T103000
+SUMMARY:[AUTO-PILOT] Instagram Reel 03
+DESCRIPTION:Kanal: Instagram | Prio: Mittel \nReel 03: Azubi alleine auf der Baustelle?
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: [AUTO-PILOT] Instagram Reel 03
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:telelook-task-10-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260812T100000
+DTEND:20260812T103000
+SUMMARY:[AUTO-PILOT] Instagram Post 04 Carousel
+DESCRIPTION:Kanal: Instagram / FB | Prio: Mittel \nPost 04: Der ROI-Rechner: 3.500 € monatlich sparen.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: [AUTO-PILOT] Instagram Post 04 Carousel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:telelook-task-11-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260817T090000
+DTEND:20260817T093000
+SUMMARY:Social-Media Kommentare & DMs nach Urlaub sichten
+DESCRIPTION:Kanal: Community Mgmt | Prio: Hoch \nUrlaubs-Kommentare & DMs auf Insta/LinkedIn beantworten.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: Social-Media Kommentare & DMs nach Urlaub sichten
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:telelook-task-12-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260818T100000
+DTEND:20260818T103000
+SUMMARY:Telefonisches Follow-Up bei Pfeiffer & May
+DESCRIPTION:Kanal: Vertriebspartner | Prio: Sehr Hoch \nPfeiffer & May anrufen & Termin für Pilot-Phase abstimmen.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: Telefonisches Follow-Up bei Pfeiffer & May
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:telelook-task-13-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260819T093000
+DTEND:20260819T100000
+SUMMARY:Brevo E-Mail Kampagne 1 (Regional-Outreach) starten
+DESCRIPTION:Kanal: E-Mail Outreach | Prio: Hoch \nKampagne an Adressen Freiburg, Karlsruhe, Salzburg, CH senden.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: Brevo E-Mail Kampagne 1 (Regional-Outreach) starten
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:telelook-task-14-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260820T110000
+DTEND:20260820T113000
+SUMMARY:LinkedIn organische Akquise-Anfragen (5 pro Tag)
+DESCRIPTION:Kanal: LinkedIn | Prio: Mittel \nVernetzungsanfragen mit Vorlage A senden.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: LinkedIn organische Akquise-Anfragen (5 pro Tag)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:telelook-task-15-2026@tele-look.com
+DTSTAMP:20260730T092613Z
+DTSTART:20260825T083000
+DTEND:20260825T090000
+SUMMARY:openPR Pressemitteilung 2/6 veröffentlichen
+DESCRIPTION:Kanal: openPR Portal | Prio: Hoch \nMeldung: Wissenstransfer im Außendienst: Wie der tele-PUNKT dem Fachkräftemangel trotzt.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Erinnerung: openPR Pressemitteilung 2/6 veröffentlichen
+END:VALARM
+END:VEVENT
+END:VCALENDAR

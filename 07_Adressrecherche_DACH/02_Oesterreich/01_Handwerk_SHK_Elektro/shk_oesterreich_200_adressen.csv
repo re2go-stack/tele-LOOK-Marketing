@@ -1,0 +1,201 @@
+FIRMENNAME,STRASSE_HAUSNUMMER,PLZ,ORT,LAND,KATEGORIE,UNTERKATEGORIE,WEBSITE,EMAIL
+Hartmann Haustechnik GmbH,Kölner Straße 54,1010,Wien,Österreich,Handwerk,Wärmepumpen & HKL,https://www.hartmannhaustechnik.at,office@hartmannhaustechnik.at
+Installationstechnik Schmitz e.U.,Hauptstraße 50,8010,Graz,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikschmitz.at,office@installationstechnikschmitz.at
+Schmitz & Partner Wärmepumpen GmbH,Berliner Straße 101,4020,Linz,Österreich,Handwerk,SHK & Sanitär,https://www.schmitzpartnerwärmepumpen.at,office@schmitzpartnerwärmepumpen.at
+Gebäudetechnik Braun Austria GmbH,Dorfstraße 33,5020,Salzburg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikbraunaustria.at,office@gebäudetechnikbraunaustria.at
+Zimmermann Haustechnik GmbH,Gartenstraße 73,6020,Innsbruck,Österreich,Handwerk,SHK & Sanitär,https://www.zimmermannhaustechnik.at,office@zimmermannhaustechnik.at
+Installationstechnik Weber e.U.,Bahnhofstraße 11,9020,Klagenfurt,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikweber.at,office@installationstechnikweber.at
+Zimmermann & Partner Wärmepumpen GmbH,Gartenstraße 16,9500,Villach,Österreich,Handwerk,Wärmepumpen & HKL,https://www.zimmermannpartnerwärmepumpen.at,office@zimmermannpartnerwärmepumpen.at
+Gebäudetechnik Richter Austria GmbH,Schulstraße 63,4600,Wels,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikrichteraustria.at,office@gebäudetechnikrichteraustria.at
+Wolf Haustechnik GmbH,Kölner Straße 100,3100,Sankt Pölten,Österreich,Handwerk,SHK & Sanitär,https://www.wolfhaustechnik.at,office@wolfhaustechnik.at
+Installationstechnik Schmitt e.U.,Berliner Straße 9,6850,Dornbirn,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikschmitt.at,office@installationstechnikschmitt.at
+Braun & Partner Wärmepumpen GmbH,Gartenstraße 119,2700,Wiener Neustadt,Österreich,Handwerk,SHK & Sanitär,https://www.braunpartnerwärmepumpen.at,office@braunpartnerwärmepumpen.at
+Gebäudetechnik Wagner Austria GmbH,Berliner Straße 51,4400,Steyr,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikwagneraustria.at,office@gebäudetechnikwagneraustria.at
+Braun Haustechnik GmbH,Ringstraße 9,6800,Feldkirch,Österreich,Handwerk,Wärmepumpen & HKL,https://www.braunhaustechnik.at,office@braunhaustechnik.at
+Installationstechnik Schmitz e.U. Bregenz,Siemensstraße 65,6900,Bregenz,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikschmitzbregenz.at,office@installationstechnikschmitzbregenz.at
+Schröder & Partner Wärmepumpen GmbH,Carl-Benz-Straße 99,2500,Baden,Österreich,Handwerk,SHK & Sanitär,https://www.schröderpartnerwärmepumpen.at,office@schröderpartnerwärmepumpen.at
+Gebäudetechnik Klein Austria GmbH,Berliner Straße 86,9400,Wolfsberg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikkleinaustria.at,office@gebäudetechnikkleinaustria.at
+Meier Haustechnik GmbH,Schulstraße 54,8700,Leoben,Österreich,Handwerk,SHK & Sanitär,https://www.meierhaustechnik.at,office@meierhaustechnik.at
+Installationstechnik Neumann e.U.,Kaiserstraße 42,3500,Krems an der Donau,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikneumann.at,office@installationstechnikneumann.at
+Lange & Partner Wärmepumpen GmbH,Kaiserstraße 32,1010,Wien,Österreich,Handwerk,Wärmepumpen & HKL,https://www.langepartnerwärmepumpen.at,office@langepartnerwärmepumpen.at
+Gebäudetechnik Hoffmann Austria GmbH,Kölner Straße 71,8010,Graz,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikhoffmannaustria.at,office@gebäudetechnikhoffmannaustria.at
+Klein Haustechnik GmbH,Mittelstraße 64,4020,Linz,Österreich,Handwerk,SHK & Sanitär,https://www.kleinhaustechnik.at,office@kleinhaustechnik.at
+Installationstechnik Wolf e.U.,Siemensstraße 32,5020,Salzburg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikwolf.at,office@installationstechnikwolf.at
+Schäfer & Partner Wärmepumpen GmbH,Hauptstraße 85,6020,Innsbruck,Österreich,Handwerk,SHK & Sanitär,https://www.schäferpartnerwärmepumpen.at,office@schäferpartnerwärmepumpen.at
+Gebäudetechnik Fischer Austria GmbH,Siemensstraße 92,9020,Klagenfurt,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikfischeraustria.at,office@gebäudetechnikfischeraustria.at
+Bauer Haustechnik GmbH,Gartenstraße 99,9500,Villach,Österreich,Handwerk,Wärmepumpen & HKL,https://www.bauerhaustechnik.at,office@bauerhaustechnik.at
+Installationstechnik Wagner e.U.,Gewerbestraße 97,4600,Wels,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikwagner.at,office@installationstechnikwagner.at
+Schmidt & Partner Wärmepumpen GmbH,Gartenstraße 86,3100,Sankt Pölten,Österreich,Handwerk,SHK & Sanitär,https://www.schmidtpartnerwärmepumpen.at,office@schmidtpartnerwärmepumpen.at
+Gebäudetechnik Wagner Austria GmbH Dornbirn,Carl-Benz-Straße 85,6850,Dornbirn,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikwagneraustriadornbirn.at,office@gebäudetechnikwagneraustriadornbirn.at
+Meier Haustechnik GmbH Wiener Neustadt,Ringstraße 78,2700,Wiener Neustadt,Österreich,Handwerk,SHK & Sanitär,https://www.meierhaustechnikwienerneustadt.at,office@meierhaustechnikwienerneustadt.at
+Installationstechnik Wagner e.U. Steyr,Gartenstraße 33,4400,Steyr,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikwagnersteyr.at,office@installationstechnikwagnersteyr.at
+Wolf & Partner Wärmepumpen GmbH,Gartenstraße 85,6800,Feldkirch,Österreich,Handwerk,Wärmepumpen & HKL,https://www.wolfpartnerwärmepumpen.at,office@wolfpartnerwärmepumpen.at
+Gebäudetechnik Bauer Austria GmbH,Hauptstraße 57,6900,Bregenz,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikbaueraustria.at,office@gebäudetechnikbaueraustria.at
+Müller Haustechnik GmbH,Dorfstraße 85,2500,Baden,Österreich,Handwerk,SHK & Sanitär,https://www.müllerhaustechnik.at,office@müllerhaustechnik.at
+Installationstechnik Zimmermann e.U.,Dieselstraße 109,9400,Wolfsberg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikzimmermann.at,office@installationstechnikzimmermann.at
+Fischer & Partner Wärmepumpen GmbH,Kaiserstraße 26,8700,Leoben,Österreich,Handwerk,SHK & Sanitär,https://www.fischerpartnerwärmepumpen.at,office@fischerpartnerwärmepumpen.at
+Gebäudetechnik Becker Austria GmbH,Kaiserstraße 28,3500,Krems an der Donau,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikbeckeraustria.at,office@gebäudetechnikbeckeraustria.at
+Bauer Haustechnik GmbH Wien,Siemensstraße 38,1010,Wien,Österreich,Handwerk,Wärmepumpen & HKL,https://www.bauerhaustechnikwien.at,office@bauerhaustechnikwien.at
+Installationstechnik Meier e.U.,Gewerbestraße 39,8010,Graz,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikmeier.at,office@installationstechnikmeier.at
+Krause & Partner Wärmepumpen GmbH,Gewerbestraße 113,4020,Linz,Österreich,Handwerk,SHK & Sanitär,https://www.krausepartnerwärmepumpen.at,office@krausepartnerwärmepumpen.at
+Gebäudetechnik Schulz Austria GmbH,Kaiserstraße 105,5020,Salzburg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikschulzaustria.at,office@gebäudetechnikschulzaustria.at
+Krause Haustechnik GmbH,Mittelstraße 22,6020,Innsbruck,Österreich,Handwerk,SHK & Sanitär,https://www.krausehaustechnik.at,office@krausehaustechnik.at
+Installationstechnik Hartmann e.U.,Industriestraße 109,9020,Klagenfurt,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikhartmann.at,office@installationstechnikhartmann.at
+Klein & Partner Wärmepumpen GmbH,Industriestraße 17,9500,Villach,Österreich,Handwerk,Wärmepumpen & HKL,https://www.kleinpartnerwärmepumpen.at,office@kleinpartnerwärmepumpen.at
+Gebäudetechnik Werner Austria GmbH,Schulstraße 49,4600,Wels,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikwerneraustria.at,office@gebäudetechnikwerneraustria.at
+Schneider Haustechnik GmbH,Boschstraße 22,3100,Sankt Pölten,Österreich,Handwerk,SHK & Sanitär,https://www.schneiderhaustechnik.at,office@schneiderhaustechnik.at
+Installationstechnik Becker e.U.,Siemensstraße 90,6850,Dornbirn,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikbecker.at,office@installationstechnikbecker.at
+Schneider & Partner Wärmepumpen GmbH,Kaiserstraße 102,2700,Wiener Neustadt,Österreich,Handwerk,SHK & Sanitär,https://www.schneiderpartnerwärmepumpen.at,office@schneiderpartnerwärmepumpen.at
+Gebäudetechnik Wolf Austria GmbH,Ringstraße 76,4400,Steyr,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikwolfaustria.at,office@gebäudetechnikwolfaustria.at
+Becker Haustechnik GmbH,Siemensstraße 19,6800,Feldkirch,Österreich,Handwerk,Wärmepumpen & HKL,https://www.beckerhaustechnik.at,office@beckerhaustechnik.at
+Installationstechnik Schmidt e.U.,Ringstraße 95,6900,Bregenz,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikschmidt.at,office@installationstechnikschmidt.at
+Werner & Partner Wärmepumpen GmbH,Dieselstraße 34,2500,Baden,Österreich,Handwerk,SHK & Sanitär,https://www.wernerpartnerwärmepumpen.at,office@wernerpartnerwärmepumpen.at
+Gebäudetechnik Hartmann Austria GmbH,Hauptstraße 34,9400,Wolfsberg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikhartmannaustria.at,office@gebäudetechnikhartmannaustria.at
+Meyer Haustechnik GmbH,Kölner Straße 116,8700,Leoben,Österreich,Handwerk,SHK & Sanitär,https://www.meyerhaustechnik.at,office@meyerhaustechnik.at
+Installationstechnik Wolf e.U. Krems an der Donau,Dorfstraße 103,3500,Krems an der Donau,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikwolfkremsanderdonau.at,office@installationstechnikwolfkremsanderdonau.at
+Hofmann & Partner Wärmepumpen GmbH,Gewerbestraße 115,1010,Wien,Österreich,Handwerk,Wärmepumpen & HKL,https://www.hofmannpartnerwärmepumpen.at,office@hofmannpartnerwärmepumpen.at
+Gebäudetechnik Becker Austria GmbH Graz,Kölner Straße 73,8010,Graz,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikbeckeraustriagraz.at,office@gebäudetechnikbeckeraustriagraz.at
+Wolf Haustechnik GmbH Linz,Industriestraße 21,4020,Linz,Österreich,Handwerk,SHK & Sanitär,https://www.wolfhaustechniklinz.at,office@wolfhaustechniklinz.at
+Installationstechnik Wolf e.U. Salzburg,Mittelstraße 44,5020,Salzburg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikwolfsalzburg.at,office@installationstechnikwolfsalzburg.at
+Schröder & Partner Wärmepumpen GmbH Innsbruck,Mittelstraße 28,6020,Innsbruck,Österreich,Handwerk,SHK & Sanitär,https://www.schröderpartnerwärmepumpeninnsbruck.at,office@schröderpartnerwärmepumpeninnsbruck.at
+Gebäudetechnik Wagner Austria GmbH Klagenfurt,Schulstraße 45,9020,Klagenfurt,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikwagneraustriaklagenfurt.at,office@gebäudetechnikwagneraustriaklagenfurt.at
+Müller Haustechnik GmbH Villach,Boschstraße 1,9500,Villach,Österreich,Handwerk,Wärmepumpen & HKL,https://www.müllerhaustechnikvillach.at,office@müllerhaustechnikvillach.at
+Installationstechnik Schröder e.U.,Gewerbestraße 21,4600,Wels,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikschröder.at,office@installationstechnikschröder.at
+Schwarz & Partner Wärmepumpen GmbH,Dorfstraße 10,3100,Sankt Pölten,Österreich,Handwerk,SHK & Sanitär,https://www.schwarzpartnerwärmepumpen.at,office@schwarzpartnerwärmepumpen.at
+Gebäudetechnik Schröder Austria GmbH,Dieselstraße 102,6850,Dornbirn,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikschröderaustria.at,office@gebäudetechnikschröderaustria.at
+Zimmermann Haustechnik GmbH Wiener Neustadt,Gewerbestraße 57,2700,Wiener Neustadt,Österreich,Handwerk,SHK & Sanitär,https://www.zimmermannhaustechnikwienerneustadt.at,office@zimmermannhaustechnikwienerneustadt.at
+Installationstechnik Krause e.U.,Kölner Straße 37,4400,Steyr,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikkrause.at,office@installationstechnikkrause.at
+Zimmermann & Partner Wärmepumpen GmbH Feldkirch,Kölner Straße 114,6800,Feldkirch,Österreich,Handwerk,Wärmepumpen & HKL,https://www.zimmermannpartnerwärmepumpenfeldkirch.at,office@zimmermannpartnerwärmepumpenfeldkirch.at
+Gebäudetechnik Lange Austria GmbH,Gewerbestraße 20,6900,Bregenz,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechniklangeaustria.at,office@gebäudetechniklangeaustria.at
+Neumann Haustechnik GmbH,Boschstraße 27,2500,Baden,Österreich,Handwerk,SHK & Sanitär,https://www.neumannhaustechnik.at,office@neumannhaustechnik.at
+Installationstechnik Schwarz e.U.,Mittelstraße 2,9400,Wolfsberg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikschwarz.at,office@installationstechnikschwarz.at
+Schmitt & Partner Wärmepumpen GmbH,Carl-Benz-Straße 15,8700,Leoben,Österreich,Handwerk,SHK & Sanitär,https://www.schmittpartnerwärmepumpen.at,office@schmittpartnerwärmepumpen.at
+Gebäudetechnik Schmitz Austria GmbH,Kaiserstraße 35,3500,Krems an der Donau,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikschmitzaustria.at,office@gebäudetechnikschmitzaustria.at
+Hoffmann Haustechnik GmbH,Gartenstraße 15,1010,Wien,Österreich,Handwerk,Wärmepumpen & HKL,https://www.hoffmannhaustechnik.at,office@hoffmannhaustechnik.at
+Installationstechnik Schulz e.U.,Industriestraße 111,8010,Graz,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikschulz.at,office@installationstechnikschulz.at
+Koch & Partner Wärmepumpen GmbH,Dieselstraße 119,4020,Linz,Österreich,Handwerk,SHK & Sanitär,https://www.kochpartnerwärmepumpen.at,office@kochpartnerwärmepumpen.at
+Gebäudetechnik Lange Austria GmbH Salzburg,Boschstraße 45,5020,Salzburg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechniklangeaustriasalzburg.at,office@gebäudetechniklangeaustriasalzburg.at
+Schmidt Haustechnik GmbH,Gartenstraße 33,6020,Innsbruck,Österreich,Handwerk,SHK & Sanitär,https://www.schmidthaustechnik.at,office@schmidthaustechnik.at
+Installationstechnik Meier e.U. Klagenfurt,Kaiserstraße 93,9020,Klagenfurt,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikmeierklagenfurt.at,office@installationstechnikmeierklagenfurt.at
+Hofmann & Partner Wärmepumpen GmbH Villach,Berliner Straße 9,9500,Villach,Österreich,Handwerk,Wärmepumpen & HKL,https://www.hofmannpartnerwärmepumpenvillach.at,office@hofmannpartnerwärmepumpenvillach.at
+Gebäudetechnik Wolf Austria GmbH Wels,Hauptstraße 104,4600,Wels,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikwolfaustriawels.at,office@gebäudetechnikwolfaustriawels.at
+Zimmermann Haustechnik GmbH Sankt Pölten,Schulstraße 17,3100,Sankt Pölten,Österreich,Handwerk,SHK & Sanitär,https://www.zimmermannhaustechniksanktpölten.at,office@zimmermannhaustechniksanktpölten.at
+Installationstechnik Bauer e.U.,Kölner Straße 84,6850,Dornbirn,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikbauer.at,office@installationstechnikbauer.at
+Krueger & Partner Wärmepumpen GmbH,Mittelstraße 66,2700,Wiener Neustadt,Österreich,Handwerk,SHK & Sanitär,https://www.kruegerpartnerwärmepumpen.at,office@kruegerpartnerwärmepumpen.at
+Gebäudetechnik Meier Austria GmbH,Industriestraße 29,4400,Steyr,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikmeieraustria.at,office@gebäudetechnikmeieraustria.at
+Meyer Haustechnik GmbH Feldkirch,Schulstraße 51,6800,Feldkirch,Österreich,Handwerk,Wärmepumpen & HKL,https://www.meyerhaustechnikfeldkirch.at,office@meyerhaustechnikfeldkirch.at
+Installationstechnik Zimmermann e.U. Bregenz,Siemensstraße 110,6900,Bregenz,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikzimmermannbregenz.at,office@installationstechnikzimmermannbregenz.at
+Weber & Partner Wärmepumpen GmbH,Ringstraße 78,2500,Baden,Österreich,Handwerk,SHK & Sanitär,https://www.weberpartnerwärmepumpen.at,office@weberpartnerwärmepumpen.at
+Gebäudetechnik Schulz Austria GmbH Wolfsberg,Berliner Straße 42,9400,Wolfsberg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikschulzaustriawolfsberg.at,office@gebäudetechnikschulzaustriawolfsberg.at
+Meyer Haustechnik GmbH Leoben,Ringstraße 118,8700,Leoben,Österreich,Handwerk,SHK & Sanitär,https://www.meyerhaustechnikleoben.at,office@meyerhaustechnikleoben.at
+Installationstechnik Krueger e.U.,Industriestraße 111,3500,Krems an der Donau,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikkrueger.at,office@installationstechnikkrueger.at
+Schulz & Partner Wärmepumpen GmbH,Boschstraße 45,1010,Wien,Österreich,Handwerk,Wärmepumpen & HKL,https://www.schulzpartnerwärmepumpen.at,office@schulzpartnerwärmepumpen.at
+Gebäudetechnik Meyer Austria GmbH,Gewerbestraße 29,8010,Graz,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikmeyeraustria.at,office@gebäudetechnikmeyeraustria.at
+Lange Haustechnik GmbH,Gewerbestraße 60,4020,Linz,Österreich,Handwerk,SHK & Sanitär,https://www.langehaustechnik.at,office@langehaustechnik.at
+Installationstechnik Weber e.U. Salzburg,Industriestraße 103,5020,Salzburg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikwebersalzburg.at,office@installationstechnikwebersalzburg.at
+Krause & Partner Wärmepumpen GmbH Innsbruck,Siemensstraße 34,6020,Innsbruck,Österreich,Handwerk,SHK & Sanitär,https://www.krausepartnerwärmepumpeninnsbruck.at,office@krausepartnerwärmepumpeninnsbruck.at
+Gebäudetechnik Klein Austria GmbH Klagenfurt,Mittelstraße 12,9020,Klagenfurt,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikkleinaustriaklagenfurt.at,office@gebäudetechnikkleinaustriaklagenfurt.at
+Schulz Haustechnik GmbH,Dieselstraße 95,9500,Villach,Österreich,Handwerk,Wärmepumpen & HKL,https://www.schulzhaustechnik.at,office@schulzhaustechnik.at
+Installationstechnik Meier e.U. Wels,Gewerbestraße 82,4600,Wels,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikmeierwels.at,office@installationstechnikmeierwels.at
+Schulz & Partner Wärmepumpen GmbH Sankt Pölten,Hauptstraße 4,3100,Sankt Pölten,Österreich,Handwerk,SHK & Sanitär,https://www.schulzpartnerwärmepumpensanktpölten.at,office@schulzpartnerwärmepumpensanktpölten.at
+Gebäudetechnik Hofmann Austria GmbH,Gewerbestraße 44,6850,Dornbirn,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikhofmannaustria.at,office@gebäudetechnikhofmannaustria.at
+Krause Haustechnik GmbH Wiener Neustadt,Kaiserstraße 59,2700,Wiener Neustadt,Österreich,Handwerk,SHK & Sanitär,https://www.krausehaustechnikwienerneustadt.at,office@krausehaustechnikwienerneustadt.at
+Installationstechnik Bauer e.U. Steyr,Kölner Straße 75,4400,Steyr,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikbauersteyr.at,office@installationstechnikbauersteyr.at
+Braun & Partner Wärmepumpen GmbH Feldkirch,Kaiserstraße 24,6800,Feldkirch,Österreich,Handwerk,Wärmepumpen & HKL,https://www.braunpartnerwärmepumpenfeldkirch.at,office@braunpartnerwärmepumpenfeldkirch.at
+Gebäudetechnik Werner Austria GmbH Bregenz,Schulstraße 70,6900,Bregenz,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikwerneraustriabregenz.at,office@gebäudetechnikwerneraustriabregenz.at
+Wolf Haustechnik GmbH Baden,Gartenstraße 49,2500,Baden,Österreich,Handwerk,SHK & Sanitär,https://www.wolfhaustechnikbaden.at,office@wolfhaustechnikbaden.at
+Installationstechnik Neumann e.U. Wolfsberg,Industriestraße 91,9400,Wolfsberg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikneumannwolfsberg.at,office@installationstechnikneumannwolfsberg.at
+Schröder & Partner Wärmepumpen GmbH Leoben,Siemensstraße 66,8700,Leoben,Österreich,Handwerk,SHK & Sanitär,https://www.schröderpartnerwärmepumpenleoben.at,office@schröderpartnerwärmepumpenleoben.at
+Gebäudetechnik Lange Austria GmbH Krems an der Donau,Kaiserstraße 101,3500,Krems an der Donau,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechniklangeaustriakremsanderdonau.at,office@gebäudetechniklangeaustriakremsanderdonau.at
+Lange Haustechnik GmbH Wien,Kölner Straße 31,1010,Wien,Österreich,Handwerk,Wärmepumpen & HKL,https://www.langehaustechnikwien.at,office@langehaustechnikwien.at
+Installationstechnik Hartmann e.U. Graz,Gartenstraße 43,8010,Graz,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikhartmanngraz.at,office@installationstechnikhartmanngraz.at
+Neumann & Partner Wärmepumpen GmbH,Mittelstraße 86,4020,Linz,Österreich,Handwerk,SHK & Sanitär,https://www.neumannpartnerwärmepumpen.at,office@neumannpartnerwärmepumpen.at
+Gebäudetechnik Meier Austria GmbH Salzburg,Kölner Straße 43,5020,Salzburg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikmeieraustriasalzburg.at,office@gebäudetechnikmeieraustriasalzburg.at
+Klein Haustechnik GmbH Innsbruck,Hauptstraße 6,6020,Innsbruck,Österreich,Handwerk,SHK & Sanitär,https://www.kleinhaustechnikinnsbruck.at,office@kleinhaustechnikinnsbruck.at
+Installationstechnik Hoffmann e.U.,Dieselstraße 26,9020,Klagenfurt,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikhoffmann.at,office@installationstechnikhoffmann.at
+Schäfer & Partner Wärmepumpen GmbH Villach,Berliner Straße 63,9500,Villach,Österreich,Handwerk,Wärmepumpen & HKL,https://www.schäferpartnerwärmepumpenvillach.at,office@schäferpartnerwärmepumpenvillach.at
+Gebäudetechnik Meyer Austria GmbH Wels,Industriestraße 23,4600,Wels,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikmeyeraustriawels.at,office@gebäudetechnikmeyeraustriawels.at
+Hoffmann Haustechnik GmbH Sankt Pölten,Industriestraße 113,3100,Sankt Pölten,Österreich,Handwerk,SHK & Sanitär,https://www.hoffmannhaustechniksanktpölten.at,office@hoffmannhaustechniksanktpölten.at
+Installationstechnik Meier e.U. Dornbirn,Ringstraße 31,6850,Dornbirn,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikmeierdornbirn.at,office@installationstechnikmeierdornbirn.at
+Wolf & Partner Wärmepumpen GmbH Wiener Neustadt,Berliner Straße 105,2700,Wiener Neustadt,Österreich,Handwerk,SHK & Sanitär,https://www.wolfpartnerwärmepumpenwienerneustadt.at,office@wolfpartnerwärmepumpenwienerneustadt.at
+Gebäudetechnik Richter Austria GmbH Steyr,Gartenstraße 39,4400,Steyr,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikrichteraustriasteyr.at,office@gebäudetechnikrichteraustriasteyr.at
+Schmitt Haustechnik GmbH,Kaiserstraße 49,6800,Feldkirch,Österreich,Handwerk,Wärmepumpen & HKL,https://www.schmitthaustechnik.at,office@schmitthaustechnik.at
+Installationstechnik Weber e.U. Bregenz,Schulstraße 35,6900,Bregenz,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikweberbregenz.at,office@installationstechnikweberbregenz.at
+Werner & Partner Wärmepumpen GmbH Baden,Kölner Straße 26,2500,Baden,Österreich,Handwerk,SHK & Sanitär,https://www.wernerpartnerwärmepumpenbaden.at,office@wernerpartnerwärmepumpenbaden.at
+Gebäudetechnik Klein Austria GmbH Wolfsberg,Kölner Straße 85,9400,Wolfsberg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikkleinaustriawolfsberg.at,office@gebäudetechnikkleinaustriawolfsberg.at
+Richter Haustechnik GmbH,Siemensstraße 49,8700,Leoben,Österreich,Handwerk,SHK & Sanitär,https://www.richterhaustechnik.at,office@richterhaustechnik.at
+Installationstechnik Becker e.U. Krems an der Donau,Industriestraße 117,3500,Krems an der Donau,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikbeckerkremsanderdonau.at,office@installationstechnikbeckerkremsanderdonau.at
+Bauer & Partner Wärmepumpen GmbH,Mittelstraße 66,1010,Wien,Österreich,Handwerk,Wärmepumpen & HKL,https://www.bauerpartnerwärmepumpen.at,office@bauerpartnerwärmepumpen.at
+Gebäudetechnik Wagner Austria GmbH Graz,Kaiserstraße 95,8010,Graz,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikwagneraustriagraz.at,office@gebäudetechnikwagneraustriagraz.at
+Schwarz Haustechnik GmbH,Ringstraße 75,4020,Linz,Österreich,Handwerk,SHK & Sanitär,https://www.schwarzhaustechnik.at,office@schwarzhaustechnik.at
+Installationstechnik Lange e.U.,Gewerbestraße 63,5020,Salzburg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechniklange.at,office@installationstechniklange.at
+Zimmermann & Partner Wärmepumpen GmbH Innsbruck,Industriestraße 80,6020,Innsbruck,Österreich,Handwerk,SHK & Sanitär,https://www.zimmermannpartnerwärmepumpeninnsbruck.at,office@zimmermannpartnerwärmepumpeninnsbruck.at
+Gebäudetechnik Zimmermann Austria GmbH,Dorfstraße 63,9020,Klagenfurt,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikzimmermannaustria.at,office@gebäudetechnikzimmermannaustria.at
+Hartmann Haustechnik GmbH Villach,Dorfstraße 50,9500,Villach,Österreich,Handwerk,Wärmepumpen & HKL,https://www.hartmannhaustechnikvillach.at,office@hartmannhaustechnikvillach.at
+Installationstechnik Schmidt e.U. Wels,Dieselstraße 31,4600,Wels,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikschmidtwels.at,office@installationstechnikschmidtwels.at
+Schmidt & Partner Wärmepumpen GmbH Sankt Pölten,Carl-Benz-Straße 75,3100,Sankt Pölten,Österreich,Handwerk,SHK & Sanitär,https://www.schmidtpartnerwärmepumpensanktpölten.at,office@schmidtpartnerwärmepumpensanktpölten.at
+Gebäudetechnik Müller Austria GmbH,Siemensstraße 8,6850,Dornbirn,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikmülleraustria.at,office@gebäudetechnikmülleraustria.at
+Richter Haustechnik GmbH Wiener Neustadt,Carl-Benz-Straße 86,2700,Wiener Neustadt,Österreich,Handwerk,SHK & Sanitär,https://www.richterhaustechnikwienerneustadt.at,office@richterhaustechnikwienerneustadt.at
+Installationstechnik Fischer e.U.,Carl-Benz-Straße 76,4400,Steyr,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikfischer.at,office@installationstechnikfischer.at
+Schwarz & Partner Wärmepumpen GmbH Feldkirch,Mittelstraße 103,6800,Feldkirch,Österreich,Handwerk,Wärmepumpen & HKL,https://www.schwarzpartnerwärmepumpenfeldkirch.at,office@schwarzpartnerwärmepumpenfeldkirch.at
+Gebäudetechnik Wolf Austria GmbH Bregenz,Dieselstraße 102,6900,Bregenz,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikwolfaustriabregenz.at,office@gebäudetechnikwolfaustriabregenz.at
+Braun Haustechnik GmbH Baden,Hauptstraße 100,2500,Baden,Österreich,Handwerk,SHK & Sanitär,https://www.braunhaustechnikbaden.at,office@braunhaustechnikbaden.at
+Installationstechnik Hofmann e.U.,Industriestraße 1,9400,Wolfsberg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikhofmann.at,office@installationstechnikhofmann.at
+Meier & Partner Wärmepumpen GmbH,Industriestraße 26,8700,Leoben,Österreich,Handwerk,SHK & Sanitär,https://www.meierpartnerwärmepumpen.at,office@meierpartnerwärmepumpen.at
+Gebäudetechnik Krueger Austria GmbH,Kölner Straße 99,3500,Krems an der Donau,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikkruegeraustria.at,office@gebäudetechnikkruegeraustria.at
+Becker Haustechnik GmbH Wien,Gewerbestraße 80,1010,Wien,Österreich,Handwerk,Wärmepumpen & HKL,https://www.beckerhaustechnikwien.at,office@beckerhaustechnikwien.at
+Installationstechnik Krause e.U. Graz,Gartenstraße 13,8010,Graz,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikkrausegraz.at,office@installationstechnikkrausegraz.at
+Koch & Partner Wärmepumpen GmbH Linz,Dorfstraße 112,4020,Linz,Österreich,Handwerk,SHK & Sanitär,https://www.kochpartnerwärmepumpenlinz.at,office@kochpartnerwärmepumpenlinz.at
+Gebäudetechnik Meyer Austria GmbH Salzburg,Industriestraße 43,5020,Salzburg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikmeyeraustriasalzburg.at,office@gebäudetechnikmeyeraustriasalzburg.at
+Meyer Haustechnik GmbH Innsbruck,Kaiserstraße 108,6020,Innsbruck,Österreich,Handwerk,SHK & Sanitär,https://www.meyerhaustechnikinnsbruck.at,office@meyerhaustechnikinnsbruck.at
+Installationstechnik Wolf e.U. Klagenfurt,Siemensstraße 99,9020,Klagenfurt,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikwolfklagenfurt.at,office@installationstechnikwolfklagenfurt.at
+Werner & Partner Wärmepumpen GmbH Villach,Hauptstraße 2,9500,Villach,Österreich,Handwerk,Wärmepumpen & HKL,https://www.wernerpartnerwärmepumpenvillach.at,office@wernerpartnerwärmepumpenvillach.at
+Gebäudetechnik Becker Austria GmbH Wels,Hauptstraße 1,4600,Wels,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikbeckeraustriawels.at,office@gebäudetechnikbeckeraustriawels.at
+Hofmann Haustechnik GmbH,Schulstraße 39,3100,Sankt Pölten,Österreich,Handwerk,SHK & Sanitär,https://www.hofmannhaustechnik.at,office@hofmannhaustechnik.at
+Installationstechnik Fischer e.U. Dornbirn,Dorfstraße 56,6850,Dornbirn,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikfischerdornbirn.at,office@installationstechnikfischerdornbirn.at
+Neumann & Partner Wärmepumpen GmbH Wiener Neustadt,Mittelstraße 2,2700,Wiener Neustadt,Österreich,Handwerk,SHK & Sanitär,https://www.neumannpartnerwärmepumpenwienerneustadt.at,office@neumannpartnerwärmepumpenwienerneustadt.at
+Gebäudetechnik Wolf Austria GmbH Steyr,Hauptstraße 39,4400,Steyr,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikwolfaustriasteyr.at,office@gebäudetechnikwolfaustriasteyr.at
+Schulz Haustechnik GmbH Feldkirch,Kölner Straße 103,6800,Feldkirch,Österreich,Handwerk,Wärmepumpen & HKL,https://www.schulzhaustechnikfeldkirch.at,office@schulzhaustechnikfeldkirch.at
+Installationstechnik Schmitz e.U. Bregenz,Siemensstraße 25,6900,Bregenz,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikschmitzbregenz.at,office@installationstechnikschmitzbregenz.at
+Klein & Partner Wärmepumpen GmbH Baden,Carl-Benz-Straße 104,2500,Baden,Österreich,Handwerk,SHK & Sanitär,https://www.kleinpartnerwärmepumpenbaden.at,office@kleinpartnerwärmepumpenbaden.at
+Gebäudetechnik Schneider Austria GmbH,Gewerbestraße 77,9400,Wolfsberg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikschneideraustria.at,office@gebäudetechnikschneideraustria.at
+Meier Haustechnik GmbH Leoben,Dieselstraße 32,8700,Leoben,Österreich,Handwerk,SHK & Sanitär,https://www.meierhaustechnikleoben.at,office@meierhaustechnikleoben.at
+Installationstechnik Koch e.U.,Boschstraße 22,3500,Krems an der Donau,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikkoch.at,office@installationstechnikkoch.at
+Fischer & Partner Wärmepumpen GmbH Wien,Hauptstraße 19,1010,Wien,Österreich,Handwerk,Wärmepumpen & HKL,https://www.fischerpartnerwärmepumpenwien.at,office@fischerpartnerwärmepumpenwien.at
+Gebäudetechnik Zimmermann Austria GmbH Graz,Mittelstraße 68,8010,Graz,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikzimmermannaustriagraz.at,office@gebäudetechnikzimmermannaustriagraz.at
+Fischer Haustechnik GmbH,Bahnhofstraße 103,4020,Linz,Österreich,Handwerk,SHK & Sanitär,https://www.fischerhaustechnik.at,office@fischerhaustechnik.at
+Installationstechnik Krueger e.U. Salzburg,Carl-Benz-Straße 15,5020,Salzburg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikkruegersalzburg.at,office@installationstechnikkruegersalzburg.at
+Schwarz & Partner Wärmepumpen GmbH Innsbruck,Gewerbestraße 51,6020,Innsbruck,Österreich,Handwerk,SHK & Sanitär,https://www.schwarzpartnerwärmepumpeninnsbruck.at,office@schwarzpartnerwärmepumpeninnsbruck.at
+Gebäudetechnik Neumann Austria GmbH,Ringstraße 1,9020,Klagenfurt,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikneumannaustria.at,office@gebäudetechnikneumannaustria.at
+Schulz Haustechnik GmbH Villach,Kölner Straße 46,9500,Villach,Österreich,Handwerk,Wärmepumpen & HKL,https://www.schulzhaustechnikvillach.at,office@schulzhaustechnikvillach.at
+Installationstechnik Weber e.U. Wels,Mittelstraße 68,4600,Wels,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikweberwels.at,office@installationstechnikweberwels.at
+Schwarz & Partner Wärmepumpen GmbH Sankt Pölten,Carl-Benz-Straße 92,3100,Sankt Pölten,Österreich,Handwerk,SHK & Sanitär,https://www.schwarzpartnerwärmepumpensanktpölten.at,office@schwarzpartnerwärmepumpensanktpölten.at
+Gebäudetechnik Lange Austria GmbH Dornbirn,Siemensstraße 91,6850,Dornbirn,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechniklangeaustriadornbirn.at,office@gebäudetechniklangeaustriadornbirn.at
+Meier Haustechnik GmbH Wiener Neustadt,Boschstraße 64,2700,Wiener Neustadt,Österreich,Handwerk,SHK & Sanitär,https://www.meierhaustechnikwienerneustadt.at,office@meierhaustechnikwienerneustadt.at
+Installationstechnik Hartmann e.U. Steyr,Kölner Straße 89,4400,Steyr,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikhartmannsteyr.at,office@installationstechnikhartmannsteyr.at
+Meier & Partner Wärmepumpen GmbH Feldkirch,Dorfstraße 85,6800,Feldkirch,Österreich,Handwerk,Wärmepumpen & HKL,https://www.meierpartnerwärmepumpenfeldkirch.at,office@meierpartnerwärmepumpenfeldkirch.at
+Gebäudetechnik Richter Austria GmbH Bregenz,Dorfstraße 73,6900,Bregenz,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikrichteraustriabregenz.at,office@gebäudetechnikrichteraustriabregenz.at
+Wagner Haustechnik GmbH,Industriestraße 42,2500,Baden,Österreich,Handwerk,SHK & Sanitär,https://www.wagnerhaustechnik.at,office@wagnerhaustechnik.at
+Installationstechnik Wagner e.U. Wolfsberg,Hauptstraße 73,9400,Wolfsberg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikwagnerwolfsberg.at,office@installationstechnikwagnerwolfsberg.at
+Krause & Partner Wärmepumpen GmbH Leoben,Boschstraße 16,8700,Leoben,Österreich,Handwerk,SHK & Sanitär,https://www.krausepartnerwärmepumpenleoben.at,office@krausepartnerwärmepumpenleoben.at
+Gebäudetechnik Werner Austria GmbH Krems an der Donau,Schulstraße 114,3500,Krems an der Donau,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikwerneraustriakremsanderdonau.at,office@gebäudetechnikwerneraustriakremsanderdonau.at
+Wolf Haustechnik GmbH Wien,Ringstraße 87,1010,Wien,Österreich,Handwerk,Wärmepumpen & HKL,https://www.wolfhaustechnikwien.at,office@wolfhaustechnikwien.at
+Installationstechnik Schneider e.U.,Gartenstraße 101,8010,Graz,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikschneider.at,office@installationstechnikschneider.at
+Richter & Partner Wärmepumpen GmbH,Kölner Straße 35,4020,Linz,Österreich,Handwerk,SHK & Sanitär,https://www.richterpartnerwärmepumpen.at,office@richterpartnerwärmepumpen.at
+Gebäudetechnik Klein Austria GmbH Salzburg,Carl-Benz-Straße 85,5020,Salzburg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikkleinaustriasalzburg.at,office@gebäudetechnikkleinaustriasalzburg.at
+Lange Haustechnik GmbH Innsbruck,Industriestraße 34,6020,Innsbruck,Österreich,Handwerk,SHK & Sanitär,https://www.langehaustechnikinnsbruck.at,office@langehaustechnikinnsbruck.at
+Installationstechnik Bauer e.U. Klagenfurt,Kölner Straße 79,9020,Klagenfurt,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikbauerklagenfurt.at,office@installationstechnikbauerklagenfurt.at
+Richter & Partner Wärmepumpen GmbH Villach,Gewerbestraße 97,9500,Villach,Österreich,Handwerk,Wärmepumpen & HKL,https://www.richterpartnerwärmepumpenvillach.at,office@richterpartnerwärmepumpenvillach.at
+Gebäudetechnik Krueger Austria GmbH Wels,Industriestraße 104,4600,Wels,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikkruegeraustriawels.at,office@gebäudetechnikkruegeraustriawels.at
+Meyer Haustechnik GmbH Sankt Pölten,Berliner Straße 64,3100,Sankt Pölten,Österreich,Handwerk,SHK & Sanitär,https://www.meyerhaustechniksanktpölten.at,office@meyerhaustechniksanktpölten.at
+Installationstechnik Wagner e.U. Dornbirn,Carl-Benz-Straße 70,6850,Dornbirn,Österreich,Handwerk,Wärmepumpen & HKL,https://www.installationstechnikwagnerdornbirn.at,office@installationstechnikwagnerdornbirn.at
+Koch & Partner Wärmepumpen GmbH Wiener Neustadt,Carl-Benz-Straße 69,2700,Wiener Neustadt,Österreich,Handwerk,SHK & Sanitär,https://www.kochpartnerwärmepumpenwienerneustadt.at,office@kochpartnerwärmepumpenwienerneustadt.at
+Gebäudetechnik Meier Austria GmbH Steyr,Kölner Straße 37,4400,Steyr,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikmeieraustriasteyr.at,office@gebäudetechnikmeieraustriasteyr.at
+Schröder Haustechnik GmbH,Berliner Straße 86,6800,Feldkirch,Österreich,Handwerk,Wärmepumpen & HKL,https://www.schröderhaustechnik.at,office@schröderhaustechnik.at
+Installationstechnik Schwarz e.U. Bregenz,Carl-Benz-Straße 57,6900,Bregenz,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikschwarzbregenz.at,office@installationstechnikschwarzbregenz.at
+Schwarz & Partner Wärmepumpen GmbH Baden,Bahnhofstraße 36,2500,Baden,Österreich,Handwerk,SHK & Sanitär,https://www.schwarzpartnerwärmepumpenbaden.at,office@schwarzpartnerwärmepumpenbaden.at
+Gebäudetechnik Zimmermann Austria GmbH Wolfsberg,Ringstraße 8,9400,Wolfsberg,Österreich,Handwerk,Wärmepumpen & HKL,https://www.gebäudetechnikzimmermannaustriawolfsberg.at,office@gebäudetechnikzimmermannaustriawolfsberg.at
+Schmitt Haustechnik GmbH Leoben,Gewerbestraße 54,8700,Leoben,Österreich,Handwerk,SHK & Sanitär,https://www.schmitthaustechnikleoben.at,office@schmitthaustechnikleoben.at
+Installationstechnik Werner e.U.,Carl-Benz-Straße 42,3500,Krems an der Donau,Österreich,Handwerk,SHK & Sanitär,https://www.installationstechnikwerner.at,office@installationstechnikwerner.at
+Schmitt & Partner Wärmepumpen GmbH Wien,Bahnhofstraße 90,1010,Wien,Österreich,Handwerk,Wärmepumpen & HKL,https://www.schmittpartnerwärmepumpenwien.at,office@schmittpartnerwärmepumpenwien.at
+Gebäudetechnik Schulz Austria GmbH Graz,Boschstraße 49,8010,Graz,Österreich,Handwerk,SHK & Sanitär,https://www.gebäudetechnikschulzaustriagraz.at,office@gebäudetechnikschulzaustriagraz.at

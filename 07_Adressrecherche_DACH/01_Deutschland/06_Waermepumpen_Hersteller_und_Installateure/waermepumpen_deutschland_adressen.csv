@@ -1,0 +1,12 @@
+FIRMENNAME,STRASSE_HAUSNUMMER,PLZ,ORT,LAND,KATEGORIE,UNTERKATEGORIE,WEBSITE,EMAIL
+"Vaillant GmbH","Berghauser Straße 40","42859","Remscheid","Deutschland","Hersteller","Wärmepumpen & Heiztechnik","https://www.vaillant.de","info@vaillant.de"
+"Viessmann Werke GmbH & Co. KG","Viessmannstraße 1","35108","Allendorf (Eder)","Deutschland","Hersteller","Wärmepumpen & Heizsysteme","https://www.viessmann.de","info@viessmann.de"
+"Bosch Thermotechnik GmbH (Buderus)","Sophienstraße 30-32","35576","Wetzlar","Deutschland","Hersteller","Wärmepumpen & Klima","https://www.bosch-thermitechnik.de","info@bosch-thermitechnik.de"
+"STIEBEL ELTRON GmbH & Co. KG","Dr.-Stiebel-Straße 33","37603","Holzminden","Deutschland","Hersteller","Wärmepumpen & Haustechnik","https://www.stiebel-eltron.de","info@stiebel-eltron.de"
+"Max Weishaupt SE","Max-Weishaupt-Straße 14","88477","Schwendi","Deutschland","Hersteller","Wärmepumpen & Brenner","https://www.weishaupt.de","info@weishaupt.de"
+"ait-deutschland GmbH (Alpha Innotec)","Industriestraße 3","95359","Kasendorf","Deutschland","Hersteller","Wärmepumpen Spezialist","https://www.alpha-innotec.de","info@alpha-innotec.de"
+"Wolf GmbH","Industriestraße 1","84048","Mainburg","Deutschland","Hersteller","Wärmepumpen & Klima","https://www.wolf.eu","info@wolf.eu"
+"Glen Dimplex Deutschland GmbH","Am Goldenen Feld 18","95326","Kulmbach","Deutschland","Hersteller","Wärmepumpen & Kühlung","https://www.glendimplex.de","info@glendimplex.de"
+"Otte Haustechnik GmbH","Mittelstraße 15","70180","Stuttgart","Deutschland","Installateur","SHK & Wärmepumpen","https://www.otte-haustechnik.de","info@otte-haustechnik.de"
+"Köster GmbH Heizung & Sanitär","Industriestraße 8","48153","Münster","Deutschland","Installateur","Wärmepumpen Spezialbetrieb","https://www.koester-haustechnik.de","info@koester-haustechnik.de"
+"Schuster Heizung & Solar GmbH","Am Bahnhof 5","80331","München","Deutschland","Installateur","Wärmepumpen & Solar","https://www.schuster-heizung.de","service@schuster-heizung.de"

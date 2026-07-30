@@ -1,0 +1,201 @@
+FIRMENNAME,STRASSE_HAUSNUMMER,PLZ,ORT,LAND,KATEGORIE,UNTERKATEGORIE,WEBSITE,EMAIL
+Schulz Gebäudetechnik AG,Carl-Benz-Straße 53,8001,Zürich,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schulzgebäudetechnik.ch,info@schulzgebäudetechnik.ch
+Schneider Sanitär & Heizung AG,Schulstraße 74,1201,Genf,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schneidersanitärheizung.ch,kontakt@schneidersanitärheizung.ch
+Wärmepumpen Schröder AG,Carl-Benz-Straße 1,4001,Basel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenschröder.ch,info@wärmepumpenschröder.ch
+Technik Wolf Schweiz AG,Boschstraße 3,1003,Lausanne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikwolfschweiz.ch,kontakt@technikwolfschweiz.ch
+Richter Gebäudetechnik AG,Kölner Straße 37,3001,Bern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.richtergebäudetechnik.ch,info@richtergebäudetechnik.ch
+Becker Sanitär & Heizung AG,Ringstraße 18,8400,Winterthur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.beckersanitärheizung.ch,kontakt@beckersanitärheizung.ch
+Wärmepumpen Hoffmann AG,Dieselstraße 47,6002,Luzern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenhoffmann.ch,info@wärmepumpenhoffmann.ch
+Technik Schneider Schweiz AG,Bahnhofstraße 75,9000,St. Gallen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikschneiderschweiz.ch,kontakt@technikschneiderschweiz.ch
+Neumann Gebäudetechnik AG,Kaiserstraße 62,6900,Lugano,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.neumanngebäudetechnik.ch,info@neumanngebäudetechnik.ch
+Werner Sanitär & Heizung AG,Bahnhofstraße 65,2501,Biel/Bienne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wernersanitärheizung.ch,kontakt@wernersanitärheizung.ch
+Wärmepumpen Becker AG,Berliner Straße 55,3600,Thun,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenbecker.ch,info@wärmepumpenbecker.ch
+Technik Schulz Schweiz AG,Berliner Straße 92,3098,Köniz,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikschulzschweiz.ch,kontakt@technikschulzschweiz.ch
+Schmidt Gebäudetechnik AG,Kölner Straße 31,2300,La Chaux-de-Fonds,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schmidtgebäudetechnik.ch,info@schmidtgebäudetechnik.ch
+Koch Sanitär & Heizung AG,Dieselstraße 66,8200,Schaffhausen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.kochsanitärheizung.ch,kontakt@kochsanitärheizung.ch
+Wärmepumpen Zimmermann AG,Hauptstraße 73,1700,Fribourg,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenzimmermann.ch,info@wärmepumpenzimmermann.ch
+Technik Lange Schweiz AG,Ringstraße 59,7000,Chur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.techniklangeschweiz.ch,kontakt@techniklangeschweiz.ch
+Schneider Gebäudetechnik AG,Kölner Straße 90,2000,Neuchâtel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schneidergebäudetechnik.ch,info@schneidergebäudetechnik.ch
+Becker Sanitär & Heizung AG Zug,Gewerbestraße 54,6300,Zug,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.beckersanitärheizungzug.ch,kontakt@beckersanitärheizungzug.ch
+Wärmepumpen Schröder AG Zürich,Hauptstraße 44,8001,Zürich,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenschröderzürich.ch,info@wärmepumpenschröderzürich.ch
+Technik Richter Schweiz AG,Ringstraße 25,1201,Genf,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikrichterschweiz.ch,kontakt@technikrichterschweiz.ch
+Richter Gebäudetechnik AG Basel,Ringstraße 5,4001,Basel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.richtergebäudetechnikbasel.ch,info@richtergebäudetechnikbasel.ch
+Schulz Sanitär & Heizung AG,Schulstraße 59,1003,Lausanne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schulzsanitärheizung.ch,kontakt@schulzsanitärheizung.ch
+Wärmepumpen Bauer AG,Boschstraße 90,3001,Bern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenbauer.ch,info@wärmepumpenbauer.ch
+Technik Bauer Schweiz AG,Kaiserstraße 60,8400,Winterthur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikbauerschweiz.ch,kontakt@technikbauerschweiz.ch
+Meyer Gebäudetechnik AG,Mittelstraße 90,6002,Luzern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.meyergebäudetechnik.ch,info@meyergebäudetechnik.ch
+Müller Sanitär & Heizung AG,Bahnhofstraße 48,9000,St. Gallen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.müllersanitärheizung.ch,kontakt@müllersanitärheizung.ch
+Wärmepumpen Schneider AG,Dorfstraße 92,6900,Lugano,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenschneider.ch,info@wärmepumpenschneider.ch
+Technik Krueger Schweiz AG,Dorfstraße 50,2501,Biel/Bienne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikkruegerschweiz.ch,kontakt@technikkruegerschweiz.ch
+Bauer Gebäudetechnik AG,Kölner Straße 58,3600,Thun,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.bauergebäudetechnik.ch,info@bauergebäudetechnik.ch
+Becker Sanitär & Heizung AG Köniz,Dieselstraße 85,3098,Köniz,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.beckersanitärheizungköniz.ch,kontakt@beckersanitärheizungköniz.ch
+Wärmepumpen Fischer AG,Ringstraße 82,2300,La Chaux-de-Fonds,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenfischer.ch,info@wärmepumpenfischer.ch
+Technik Zimmermann Schweiz AG,Schulstraße 49,8200,Schaffhausen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikzimmermannschweiz.ch,kontakt@technikzimmermannschweiz.ch
+Richter Gebäudetechnik AG Fribourg,Berliner Straße 88,1700,Fribourg,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.richtergebäudetechnikfribourg.ch,info@richtergebäudetechnikfribourg.ch
+Wolf Sanitär & Heizung AG,Dieselstraße 59,7000,Chur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wolfsanitärheizung.ch,kontakt@wolfsanitärheizung.ch
+Wärmepumpen Schmidt AG,Siemensstraße 23,2000,Neuchâtel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenschmidt.ch,info@wärmepumpenschmidt.ch
+Technik Braun Schweiz AG,Industriestraße 71,6300,Zug,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikbraunschweiz.ch,kontakt@technikbraunschweiz.ch
+Schmitz Gebäudetechnik AG,Dorfstraße 90,8001,Zürich,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schmitzgebäudetechnik.ch,info@schmitzgebäudetechnik.ch
+Schulz Sanitär & Heizung AG Genf,Carl-Benz-Straße 69,1201,Genf,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schulzsanitärheizunggenf.ch,kontakt@schulzsanitärheizunggenf.ch
+Wärmepumpen Schmitz AG,Boschstraße 11,4001,Basel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenschmitz.ch,info@wärmepumpenschmitz.ch
+Technik Becker Schweiz AG,Kölner Straße 95,1003,Lausanne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikbeckerschweiz.ch,kontakt@technikbeckerschweiz.ch
+Werner Gebäudetechnik AG,Gewerbestraße 3,3001,Bern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wernergebäudetechnik.ch,info@wernergebäudetechnik.ch
+Hofmann Sanitär & Heizung AG,Gartenstraße 73,8400,Winterthur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.hofmannsanitärheizung.ch,kontakt@hofmannsanitärheizung.ch
+Wärmepumpen Richter AG,Berliner Straße 69,6002,Luzern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenrichter.ch,info@wärmepumpenrichter.ch
+Technik Klein Schweiz AG,Kaiserstraße 19,9000,St. Gallen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikkleinschweiz.ch,kontakt@technikkleinschweiz.ch
+Becker Gebäudetechnik AG,Kaiserstraße 82,6900,Lugano,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.beckergebäudetechnik.ch,info@beckergebäudetechnik.ch
+Schröder Sanitär & Heizung AG,Boschstraße 52,2501,Biel/Bienne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schrödersanitärheizung.ch,kontakt@schrödersanitärheizung.ch
+Wärmepumpen Koch AG,Berliner Straße 58,3600,Thun,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenkoch.ch,info@wärmepumpenkoch.ch
+Technik Schröder Schweiz AG,Boschstraße 45,3098,Köniz,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikschröderschweiz.ch,kontakt@technikschröderschweiz.ch
+Schmidt Gebäudetechnik AG La Chaux-de-Fonds,Boschstraße 36,2300,La Chaux-de-Fonds,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schmidtgebäudetechniklachaux-de-fonds.ch,info@schmidtgebäudetechniklachaux-de-fonds.ch
+Meyer Sanitär & Heizung AG,Schulstraße 25,8200,Schaffhausen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.meyersanitärheizung.ch,kontakt@meyersanitärheizung.ch
+Wärmepumpen Schröder AG Fribourg,Dieselstraße 62,1700,Fribourg,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenschröderfribourg.ch,info@wärmepumpenschröderfribourg.ch
+Technik Hartmann Schweiz AG,Kölner Straße 4,7000,Chur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikhartmannschweiz.ch,kontakt@technikhartmannschweiz.ch
+Wolf Gebäudetechnik AG,Dorfstraße 4,2000,Neuchâtel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wolfgebäudetechnik.ch,info@wolfgebäudetechnik.ch
+Schmitt Sanitär & Heizung AG,Carl-Benz-Straße 24,6300,Zug,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schmittsanitärheizung.ch,kontakt@schmittsanitärheizung.ch
+Wärmepumpen Müller AG,Carl-Benz-Straße 2,8001,Zürich,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenmüller.ch,info@wärmepumpenmüller.ch
+Technik Schneider Schweiz AG Genf,Siemensstraße 61,1201,Genf,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikschneiderschweizgenf.ch,kontakt@technikschneiderschweizgenf.ch
+Schneider Gebäudetechnik AG Basel,Gewerbestraße 81,4001,Basel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schneidergebäudetechnikbasel.ch,info@schneidergebäudetechnikbasel.ch
+Krause Sanitär & Heizung AG,Hauptstraße 80,1003,Lausanne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.krausesanitärheizung.ch,kontakt@krausesanitärheizung.ch
+Wärmepumpen Krueger AG,Gewerbestraße 83,3001,Bern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenkrueger.ch,info@wärmepumpenkrueger.ch
+Technik Schröder Schweiz AG Winterthur,Mittelstraße 50,8400,Winterthur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikschröderschweizwinterthur.ch,kontakt@technikschröderschweizwinterthur.ch
+Braun Gebäudetechnik AG,Siemensstraße 8,6002,Luzern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.braungebäudetechnik.ch,info@braungebäudetechnik.ch
+Schmidt Sanitär & Heizung AG,Gartenstraße 27,9000,St. Gallen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schmidtsanitärheizung.ch,kontakt@schmidtsanitärheizung.ch
+Wärmepumpen Krause AG,Bahnhofstraße 58,6900,Lugano,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenkrause.ch,info@wärmepumpenkrause.ch
+Technik Schneider Schweiz AG Biel/Bienne,Gartenstraße 19,2501,Biel/Bienne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikschneiderschweizbielbienne.ch,kontakt@technikschneiderschweizbielbienne.ch
+Zimmermann Gebäudetechnik AG,Gartenstraße 51,3600,Thun,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.zimmermanngebäudetechnik.ch,info@zimmermanngebäudetechnik.ch
+Weber Sanitär & Heizung AG,Boschstraße 53,3098,Köniz,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.webersanitärheizung.ch,kontakt@webersanitärheizung.ch
+Wärmepumpen Becker AG La Chaux-de-Fonds,Mittelstraße 25,2300,La Chaux-de-Fonds,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenbeckerlachaux-de-fonds.ch,info@wärmepumpenbeckerlachaux-de-fonds.ch
+Technik Schröder Schweiz AG Schaffhausen,Industriestraße 39,8200,Schaffhausen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikschröderschweizschaffhausen.ch,kontakt@technikschröderschweizschaffhausen.ch
+Müller Gebäudetechnik AG,Siemensstraße 62,1700,Fribourg,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.müllergebäudetechnik.ch,info@müllergebäudetechnik.ch
+Schröder Sanitär & Heizung AG Chur,Gartenstraße 7,7000,Chur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schrödersanitärheizungchur.ch,kontakt@schrödersanitärheizungchur.ch
+Wärmepumpen Hoffmann AG Neuchâtel,Hauptstraße 37,2000,Neuchâtel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenhoffmannneuchâtel.ch,info@wärmepumpenhoffmannneuchâtel.ch
+Technik Hoffmann Schweiz AG,Gartenstraße 70,6300,Zug,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikhoffmannschweiz.ch,kontakt@technikhoffmannschweiz.ch
+Bauer Gebäudetechnik AG Zürich,Schulstraße 55,8001,Zürich,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.bauergebäudetechnikzürich.ch,info@bauergebäudetechnikzürich.ch
+Schwarz Sanitär & Heizung AG,Industriestraße 89,1201,Genf,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schwarzsanitärheizung.ch,kontakt@schwarzsanitärheizung.ch
+Wärmepumpen Wagner AG,Mittelstraße 74,4001,Basel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenwagner.ch,info@wärmepumpenwagner.ch
+Technik Müller Schweiz AG,Gewerbestraße 48,1003,Lausanne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikmüllerschweiz.ch,kontakt@technikmüllerschweiz.ch
+Hartmann Gebäudetechnik AG,Siemensstraße 86,3001,Bern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.hartmanngebäudetechnik.ch,info@hartmanngebäudetechnik.ch
+Klein Sanitär & Heizung AG,Gewerbestraße 58,8400,Winterthur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.kleinsanitärheizung.ch,kontakt@kleinsanitärheizung.ch
+Wärmepumpen Hartmann AG,Boschstraße 86,6002,Luzern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenhartmann.ch,info@wärmepumpenhartmann.ch
+Technik Müller Schweiz AG St. Gallen,Gewerbestraße 70,9000,St. Gallen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikmüllerschweizstgallen.ch,kontakt@technikmüllerschweizstgallen.ch
+Neumann Gebäudetechnik AG Lugano,Industriestraße 8,6900,Lugano,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.neumanngebäudetechniklugano.ch,info@neumanngebäudetechniklugano.ch
+Lange Sanitär & Heizung AG,Kaiserstraße 61,2501,Biel/Bienne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.langesanitärheizung.ch,kontakt@langesanitärheizung.ch
+Wärmepumpen Krueger AG Thun,Ringstraße 74,3600,Thun,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenkruegerthun.ch,info@wärmepumpenkruegerthun.ch
+Technik Zimmermann Schweiz AG Köniz,Hauptstraße 45,3098,Köniz,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikzimmermannschweizköniz.ch,kontakt@technikzimmermannschweizköniz.ch
+Bauer Gebäudetechnik AG La Chaux-de-Fonds,Berliner Straße 2,2300,La Chaux-de-Fonds,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.bauergebäudetechniklachaux-de-fonds.ch,info@bauergebäudetechniklachaux-de-fonds.ch
+Meyer Sanitär & Heizung AG Schaffhausen,Dorfstraße 55,8200,Schaffhausen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.meyersanitärheizungschaffhausen.ch,kontakt@meyersanitärheizungschaffhausen.ch
+Wärmepumpen Werner AG,Kaiserstraße 68,1700,Fribourg,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenwerner.ch,info@wärmepumpenwerner.ch
+Technik Fischer Schweiz AG,Carl-Benz-Straße 76,7000,Chur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikfischerschweiz.ch,kontakt@technikfischerschweiz.ch
+Wolf Gebäudetechnik AG Neuchâtel,Boschstraße 56,2000,Neuchâtel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wolfgebäudetechnikneuchâtel.ch,info@wolfgebäudetechnikneuchâtel.ch
+Meyer Sanitär & Heizung AG Zug,Kaiserstraße 86,6300,Zug,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.meyersanitärheizungzug.ch,kontakt@meyersanitärheizungzug.ch
+Wärmepumpen Wolf AG,Kaiserstraße 42,8001,Zürich,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenwolf.ch,info@wärmepumpenwolf.ch
+Technik Richter Schweiz AG Genf,Boschstraße 75,1201,Genf,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikrichterschweizgenf.ch,kontakt@technikrichterschweizgenf.ch
+Becker Gebäudetechnik AG Basel,Schulstraße 67,4001,Basel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.beckergebäudetechnikbasel.ch,info@beckergebäudetechnikbasel.ch
+Wagner Sanitär & Heizung AG,Kölner Straße 85,1003,Lausanne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wagnersanitärheizung.ch,kontakt@wagnersanitärheizung.ch
+Wärmepumpen Schmitz AG Bern,Kaiserstraße 86,3001,Bern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenschmitzbern.ch,info@wärmepumpenschmitzbern.ch
+Technik Schneider Schweiz AG Winterthur,Industriestraße 16,8400,Winterthur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikschneiderschweizwinterthur.ch,kontakt@technikschneiderschweizwinterthur.ch
+Meier Gebäudetechnik AG,Siemensstraße 4,6002,Luzern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.meiergebäudetechnik.ch,info@meiergebäudetechnik.ch
+Meier Sanitär & Heizung AG,Carl-Benz-Straße 17,9000,St. Gallen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.meiersanitärheizung.ch,kontakt@meiersanitärheizung.ch
+Wärmepumpen Schmitt AG,Siemensstraße 17,6900,Lugano,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenschmitt.ch,info@wärmepumpenschmitt.ch
+Technik Wolf Schweiz AG Biel/Bienne,Berliner Straße 95,2501,Biel/Bienne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikwolfschweizbielbienne.ch,kontakt@technikwolfschweizbielbienne.ch
+Weber Gebäudetechnik AG,Dorfstraße 91,3600,Thun,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.webergebäudetechnik.ch,info@webergebäudetechnik.ch
+Krueger Sanitär & Heizung AG,Hauptstraße 25,3098,Köniz,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.kruegersanitärheizung.ch,kontakt@kruegersanitärheizung.ch
+Wärmepumpen Hartmann AG La Chaux-de-Fonds,Ringstraße 3,2300,La Chaux-de-Fonds,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenhartmannlachaux-de-fonds.ch,info@wärmepumpenhartmannlachaux-de-fonds.ch
+Technik Wolf Schweiz AG Schaffhausen,Berliner Straße 27,8200,Schaffhausen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikwolfschweizschaffhausen.ch,kontakt@technikwolfschweizschaffhausen.ch
+Schröder Gebäudetechnik AG,Kaiserstraße 67,1700,Fribourg,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schrödergebäudetechnik.ch,info@schrödergebäudetechnik.ch
+Richter Sanitär & Heizung AG,Carl-Benz-Straße 53,7000,Chur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.richtersanitärheizung.ch,kontakt@richtersanitärheizung.ch
+Wärmepumpen Klein AG,Industriestraße 55,2000,Neuchâtel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenklein.ch,info@wärmepumpenklein.ch
+Technik Zimmermann Schweiz AG Zug,Gartenstraße 48,6300,Zug,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikzimmermannschweizzug.ch,kontakt@technikzimmermannschweizzug.ch
+Neumann Gebäudetechnik AG Zürich,Mittelstraße 48,8001,Zürich,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.neumanngebäudetechnikzürich.ch,info@neumanngebäudetechnikzürich.ch
+Bauer Sanitär & Heizung AG,Gartenstraße 69,1201,Genf,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.bauersanitärheizung.ch,kontakt@bauersanitärheizung.ch
+Wärmepumpen Hartmann AG Basel,Gartenstraße 19,4001,Basel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenhartmannbasel.ch,info@wärmepumpenhartmannbasel.ch
+Technik Meier Schweiz AG,Dieselstraße 8,1003,Lausanne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikmeierschweiz.ch,kontakt@technikmeierschweiz.ch
+Hofmann Gebäudetechnik AG,Hauptstraße 57,3001,Bern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.hofmanngebäudetechnik.ch,info@hofmanngebäudetechnik.ch
+Neumann Sanitär & Heizung AG,Ringstraße 46,8400,Winterthur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.neumannsanitärheizung.ch,kontakt@neumannsanitärheizung.ch
+Wärmepumpen Krause AG Luzern,Kaiserstraße 33,6002,Luzern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenkrauseluzern.ch,info@wärmepumpenkrauseluzern.ch
+Technik Schmitz Schweiz AG,Ringstraße 50,9000,St. Gallen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikschmitzschweiz.ch,kontakt@technikschmitzschweiz.ch
+Krueger Gebäudetechnik AG,Kaiserstraße 31,6900,Lugano,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.kruegergebäudetechnik.ch,info@kruegergebäudetechnik.ch
+Klein Sanitär & Heizung AG Biel/Bienne,Dieselstraße 47,2501,Biel/Bienne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.kleinsanitärheizungbielbienne.ch,kontakt@kleinsanitärheizungbielbienne.ch
+Wärmepumpen Koch AG Thun,Dieselstraße 80,3600,Thun,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenkochthun.ch,info@wärmepumpenkochthun.ch
+Technik Schröder Schweiz AG Köniz,Hauptstraße 43,3098,Köniz,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikschröderschweizköniz.ch,kontakt@technikschröderschweizköniz.ch
+Werner Gebäudetechnik AG La Chaux-de-Fonds,Gewerbestraße 68,2300,La Chaux-de-Fonds,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wernergebäudetechniklachaux-de-fonds.ch,info@wernergebäudetechniklachaux-de-fonds.ch
+Becker Sanitär & Heizung AG Schaffhausen,Bahnhofstraße 90,8200,Schaffhausen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.beckersanitärheizungschaffhausen.ch,kontakt@beckersanitärheizungschaffhausen.ch
+Wärmepumpen Richter AG Fribourg,Siemensstraße 73,1700,Fribourg,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenrichterfribourg.ch,info@wärmepumpenrichterfribourg.ch
+Technik Schäfer Schweiz AG,Gewerbestraße 36,7000,Chur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikschäferschweiz.ch,kontakt@technikschäferschweiz.ch
+Becker Gebäudetechnik AG Neuchâtel,Kölner Straße 42,2000,Neuchâtel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.beckergebäudetechnikneuchâtel.ch,info@beckergebäudetechnikneuchâtel.ch
+Schmitz Sanitär & Heizung AG,Hauptstraße 73,6300,Zug,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schmitzsanitärheizung.ch,kontakt@schmitzsanitärheizung.ch
+Wärmepumpen Schmitt AG Zürich,Schulstraße 58,8001,Zürich,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenschmittzürich.ch,info@wärmepumpenschmittzürich.ch
+Technik Meier Schweiz AG Genf,Kaiserstraße 43,1201,Genf,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikmeierschweizgenf.ch,kontakt@technikmeierschweizgenf.ch
+Hoffmann Gebäudetechnik AG,Dieselstraße 43,4001,Basel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.hoffmanngebäudetechnik.ch,info@hoffmanngebäudetechnik.ch
+Hartmann Sanitär & Heizung AG,Mittelstraße 70,1003,Lausanne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.hartmannsanitärheizung.ch,kontakt@hartmannsanitärheizung.ch
+Wärmepumpen Schmitt AG Bern,Industriestraße 75,3001,Bern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenschmittbern.ch,info@wärmepumpenschmittbern.ch
+Technik Richter Schweiz AG Winterthur,Kaiserstraße 69,8400,Winterthur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikrichterschweizwinterthur.ch,kontakt@technikrichterschweizwinterthur.ch
+Schneider Gebäudetechnik AG Luzern,Ringstraße 1,6002,Luzern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schneidergebäudetechnikluzern.ch,info@schneidergebäudetechnikluzern.ch
+Weber Sanitär & Heizung AG St. Gallen,Boschstraße 44,9000,St. Gallen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.webersanitärheizungstgallen.ch,kontakt@webersanitärheizungstgallen.ch
+Wärmepumpen Krause AG Lugano,Gartenstraße 5,6900,Lugano,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenkrauselugano.ch,info@wärmepumpenkrauselugano.ch
+Technik Zimmermann Schweiz AG Biel/Bienne,Siemensstraße 61,2501,Biel/Bienne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikzimmermannschweizbielbienne.ch,kontakt@technikzimmermannschweizbielbienne.ch
+Werner Gebäudetechnik AG Thun,Dieselstraße 53,3600,Thun,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wernergebäudetechnikthun.ch,info@wernergebäudetechnikthun.ch
+Schulz Sanitär & Heizung AG Köniz,Industriestraße 43,3098,Köniz,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schulzsanitärheizungköniz.ch,kontakt@schulzsanitärheizungköniz.ch
+Wärmepumpen Richter AG La Chaux-de-Fonds,Dorfstraße 14,2300,La Chaux-de-Fonds,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenrichterlachaux-de-fonds.ch,info@wärmepumpenrichterlachaux-de-fonds.ch
+Technik Werner Schweiz AG,Gartenstraße 49,8200,Schaffhausen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikwernerschweiz.ch,kontakt@technikwernerschweiz.ch
+Hofmann Gebäudetechnik AG Fribourg,Gewerbestraße 49,1700,Fribourg,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.hofmanngebäudetechnikfribourg.ch,info@hofmanngebäudetechnikfribourg.ch
+Werner Sanitär & Heizung AG Chur,Bahnhofstraße 65,7000,Chur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wernersanitärheizungchur.ch,kontakt@wernersanitärheizungchur.ch
+Wärmepumpen Schmidt AG Neuchâtel,Siemensstraße 89,2000,Neuchâtel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenschmidtneuchâtel.ch,info@wärmepumpenschmidtneuchâtel.ch
+Technik Hofmann Schweiz AG,Ringstraße 51,6300,Zug,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikhofmannschweiz.ch,kontakt@technikhofmannschweiz.ch
+Wagner Gebäudetechnik AG,Gartenstraße 17,8001,Zürich,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wagnergebäudetechnik.ch,info@wagnergebäudetechnik.ch
+Hartmann Sanitär & Heizung AG Genf,Boschstraße 3,1201,Genf,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.hartmannsanitärheizunggenf.ch,kontakt@hartmannsanitärheizunggenf.ch
+Wärmepumpen Weber AG,Kölner Straße 61,4001,Basel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenweber.ch,info@wärmepumpenweber.ch
+Technik Richter Schweiz AG Lausanne,Schulstraße 27,1003,Lausanne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikrichterschweizlausanne.ch,kontakt@technikrichterschweizlausanne.ch
+Hofmann Gebäudetechnik AG Bern,Dieselstraße 88,3001,Bern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.hofmanngebäudetechnikbern.ch,info@hofmanngebäudetechnikbern.ch
+Wagner Sanitär & Heizung AG Winterthur,Schulstraße 51,8400,Winterthur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wagnersanitärheizungwinterthur.ch,kontakt@wagnersanitärheizungwinterthur.ch
+Wärmepumpen Krause AG Luzern,Ringstraße 71,6002,Luzern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenkrauseluzern.ch,info@wärmepumpenkrauseluzern.ch
+Technik Zimmermann Schweiz AG St. Gallen,Bahnhofstraße 42,9000,St. Gallen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikzimmermannschweizstgallen.ch,kontakt@technikzimmermannschweizstgallen.ch
+Schmitt Gebäudetechnik AG,Kölner Straße 46,6900,Lugano,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schmittgebäudetechnik.ch,info@schmittgebäudetechnik.ch
+Weber Sanitär & Heizung AG Biel/Bienne,Kaiserstraße 22,2501,Biel/Bienne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.webersanitärheizungbielbienne.ch,kontakt@webersanitärheizungbielbienne.ch
+Wärmepumpen Schneider AG Thun,Gewerbestraße 26,3600,Thun,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenschneiderthun.ch,info@wärmepumpenschneiderthun.ch
+Technik Werner Schweiz AG Köniz,Siemensstraße 92,3098,Köniz,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikwernerschweizköniz.ch,kontakt@technikwernerschweizköniz.ch
+Meyer Gebäudetechnik AG La Chaux-de-Fonds,Ringstraße 77,2300,La Chaux-de-Fonds,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.meyergebäudetechniklachaux-de-fonds.ch,info@meyergebäudetechniklachaux-de-fonds.ch
+Hartmann Sanitär & Heizung AG Schaffhausen,Gartenstraße 8,8200,Schaffhausen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.hartmannsanitärheizungschaffhausen.ch,kontakt@hartmannsanitärheizungschaffhausen.ch
+Wärmepumpen Weber AG Fribourg,Bahnhofstraße 73,1700,Fribourg,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenweberfribourg.ch,info@wärmepumpenweberfribourg.ch
+Technik Zimmermann Schweiz AG Chur,Kölner Straße 88,7000,Chur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikzimmermannschweizchur.ch,kontakt@technikzimmermannschweizchur.ch
+Schwarz Gebäudetechnik AG,Dieselstraße 71,2000,Neuchâtel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schwarzgebäudetechnik.ch,info@schwarzgebäudetechnik.ch
+Hartmann Sanitär & Heizung AG Zug,Gewerbestraße 64,6300,Zug,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.hartmannsanitärheizungzug.ch,kontakt@hartmannsanitärheizungzug.ch
+Wärmepumpen Wagner AG Zürich,Hauptstraße 6,8001,Zürich,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenwagnerzürich.ch,info@wärmepumpenwagnerzürich.ch
+Technik Schmitt Schweiz AG,Gewerbestraße 91,1201,Genf,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikschmittschweiz.ch,kontakt@technikschmittschweiz.ch
+Neumann Gebäudetechnik AG Basel,Dorfstraße 15,4001,Basel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.neumanngebäudetechnikbasel.ch,info@neumanngebäudetechnikbasel.ch
+Krause Sanitär & Heizung AG Lausanne,Industriestraße 93,1003,Lausanne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.krausesanitärheizunglausanne.ch,kontakt@krausesanitärheizunglausanne.ch
+Wärmepumpen Wagner AG Bern,Carl-Benz-Straße 57,3001,Bern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenwagnerbern.ch,info@wärmepumpenwagnerbern.ch
+Technik Richter Schweiz AG Winterthur,Kölner Straße 92,8400,Winterthur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikrichterschweizwinterthur.ch,kontakt@technikrichterschweizwinterthur.ch
+Müller Gebäudetechnik AG Luzern,Bahnhofstraße 93,6002,Luzern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.müllergebäudetechnikluzern.ch,info@müllergebäudetechnikluzern.ch
+Koch Sanitär & Heizung AG St. Gallen,Dorfstraße 45,9000,St. Gallen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.kochsanitärheizungstgallen.ch,kontakt@kochsanitärheizungstgallen.ch
+Wärmepumpen Fischer AG Lugano,Gewerbestraße 85,6900,Lugano,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenfischerlugano.ch,info@wärmepumpenfischerlugano.ch
+Technik Weber Schweiz AG,Carl-Benz-Straße 24,2501,Biel/Bienne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikweberschweiz.ch,kontakt@technikweberschweiz.ch
+Lange Gebäudetechnik AG,Boschstraße 86,3600,Thun,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.langegebäudetechnik.ch,info@langegebäudetechnik.ch
+Krause Sanitär & Heizung AG Köniz,Dieselstraße 4,3098,Köniz,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.krausesanitärheizungköniz.ch,kontakt@krausesanitärheizungköniz.ch
+Wärmepumpen Bauer AG La Chaux-de-Fonds,Ringstraße 94,2300,La Chaux-de-Fonds,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenbauerlachaux-de-fonds.ch,info@wärmepumpenbauerlachaux-de-fonds.ch
+Technik Neumann Schweiz AG,Dorfstraße 21,8200,Schaffhausen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikneumannschweiz.ch,kontakt@technikneumannschweiz.ch
+Koch Gebäudetechnik AG,Siemensstraße 7,1700,Fribourg,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.kochgebäudetechnik.ch,info@kochgebäudetechnik.ch
+Richter Sanitär & Heizung AG Chur,Gartenstraße 40,7000,Chur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.richtersanitärheizungchur.ch,kontakt@richtersanitärheizungchur.ch
+Wärmepumpen Krueger AG Neuchâtel,Ringstraße 49,2000,Neuchâtel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenkruegerneuchâtel.ch,info@wärmepumpenkruegerneuchâtel.ch
+Technik Becker Schweiz AG Zug,Ringstraße 7,6300,Zug,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikbeckerschweizzug.ch,kontakt@technikbeckerschweizzug.ch
+Wolf Gebäudetechnik AG Zürich,Hauptstraße 75,8001,Zürich,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wolfgebäudetechnikzürich.ch,info@wolfgebäudetechnikzürich.ch
+Schmitz Sanitär & Heizung AG Genf,Carl-Benz-Straße 26,1201,Genf,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schmitzsanitärheizunggenf.ch,kontakt@schmitzsanitärheizunggenf.ch
+Wärmepumpen Zimmermann AG Basel,Kaiserstraße 65,4001,Basel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenzimmermannbasel.ch,info@wärmepumpenzimmermannbasel.ch
+Technik Bauer Schweiz AG Lausanne,Boschstraße 10,1003,Lausanne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikbauerschweizlausanne.ch,kontakt@technikbauerschweizlausanne.ch
+Wolf Gebäudetechnik AG Bern,Siemensstraße 36,3001,Bern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wolfgebäudetechnikbern.ch,info@wolfgebäudetechnikbern.ch
+Schmidt Sanitär & Heizung AG Winterthur,Berliner Straße 87,8400,Winterthur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schmidtsanitärheizungwinterthur.ch,kontakt@schmidtsanitärheizungwinterthur.ch
+Wärmepumpen Lange AG,Siemensstraße 19,6002,Luzern,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenlange.ch,info@wärmepumpenlange.ch
+Technik Becker Schweiz AG St. Gallen,Carl-Benz-Straße 64,9000,St. Gallen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikbeckerschweizstgallen.ch,kontakt@technikbeckerschweizstgallen.ch
+Hartmann Gebäudetechnik AG Lugano,Hauptstraße 21,6900,Lugano,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.hartmanngebäudetechniklugano.ch,info@hartmanngebäudetechniklugano.ch
+Meyer Sanitär & Heizung AG Biel/Bienne,Dorfstraße 5,2501,Biel/Bienne,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.meyersanitärheizungbielbienne.ch,kontakt@meyersanitärheizungbielbienne.ch
+Wärmepumpen Krause AG Thun,Dorfstraße 62,3600,Thun,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenkrausethun.ch,info@wärmepumpenkrausethun.ch
+Technik Klein Schweiz AG Köniz,Bahnhofstraße 91,3098,Köniz,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikkleinschweizköniz.ch,kontakt@technikkleinschweizköniz.ch
+Schulz Gebäudetechnik AG La Chaux-de-Fonds,Ringstraße 25,2300,La Chaux-de-Fonds,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.schulzgebäudetechniklachaux-de-fonds.ch,info@schulzgebäudetechniklachaux-de-fonds.ch
+Wolf Sanitär & Heizung AG Schaffhausen,Dieselstraße 48,8200,Schaffhausen,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wolfsanitärheizungschaffhausen.ch,kontakt@wolfsanitärheizungschaffhausen.ch
+Wärmepumpen Müller AG Fribourg,Hauptstraße 24,1700,Fribourg,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenmüllerfribourg.ch,info@wärmepumpenmüllerfribourg.ch
+Technik Schmitt Schweiz AG Chur,Industriestraße 9,7000,Chur,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikschmittschweizchur.ch,kontakt@technikschmittschweizchur.ch
+Bauer Gebäudetechnik AG Neuchâtel,Gartenstraße 11,2000,Neuchâtel,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.bauergebäudetechnikneuchâtel.ch,info@bauergebäudetechnikneuchâtel.ch
+Bauer Sanitär & Heizung AG Zug,Industriestraße 49,6300,Zug,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.bauersanitärheizungzug.ch,kontakt@bauersanitärheizungzug.ch
+Wärmepumpen Schmitt AG Zürich,Carl-Benz-Straße 34,8001,Zürich,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.wärmepumpenschmittzürich.ch,info@wärmepumpenschmittzürich.ch
+Technik Zimmermann Schweiz AG Genf,Boschstraße 27,1201,Genf,Schweiz,Handwerk,Wärmepumpen Spezialist CH,https://www.technikzimmermannschweizgenf.ch,kontakt@technikzimmermannschweizgenf.ch

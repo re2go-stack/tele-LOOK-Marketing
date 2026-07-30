@@ -1,0 +1,9 @@
+FIRMENNAME,STRASSE_HAUSNUMMER,PLZ,ORT,LAND,KATEGORIE,UNTERKATEGORIE,WEBSITE,EMAIL
+"Otte Haustechnik GmbH","Mittelstraße 15","70180","Stuttgart","Deutschland","Handwerk","SHK","https://www.otte-haustechnik.de","info@otte-haustechnik.de"
+"Köster GmbH Heizung & Sanitär","Industriestraße 8","48153","Münster","Deutschland","Handwerk","SHK","https://www.koester-haustechnik.de","info@koester-haustechnik.de"
+"Weber Gebäudetechnik GmbH","Berliner Straße 42","10115","Berlin","Deutschland","Handwerk","Elektro & SHK","https://www.weber-gebaeudetechnik.de","kontakt@weber-gebaeudetechnik.de"
+"InCaTec Carservice GmbH","Bahnhofstraße 22","89231","Neu-Ulm","Deutschland","Handwerk","KFZ & Service","https://www.incatec-carservice.de","info@incatec-carservice.de"
+"Schuster Heizung & Solar GmbH","Am Bahnhof 5","80331","München","Deutschland","Handwerk","SHK","https://www.schuster-heizung.de","service@schuster-heizung.de"
+"Klima- & Kältetechnik Hoffmann GmbH","Hafenstraße 19","20359","Hamburg","Deutschland","Handwerk","Kälte-Klima","https://www.hoffmann-kaelte.de","info@hoffmann-kaelte.de"
+"Brunner Sanitär & Heizung GmbH","Kaiserstraße 88","60311","Frankfurt am Main","Deutschland","Handwerk","SHK","https://www.brunner-sanitaer.de","kontakt@brunner-sanitaer.de"
+"Elektro & Haustechnik Fischer GmbH","Dresdner Straße 10","01067","Dresden","Deutschland","Handwerk","Elektrohandwerk","https://www.fischer-elektro-dd.de","info@fischer-elektro-dd.de"

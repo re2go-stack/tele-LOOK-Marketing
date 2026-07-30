@@ -1,0 +1,6 @@
+FIRMENNAME,STRASSE_HAUSNUMMER,PLZ,ORT,LAND,KATEGORIE,UNTERKATEGORIE,WEBSITE,EMAIL
+"TRUMPF SE + Co. KG","Johann-Maus-Straße 2","71254","Ditzingen","Deutschland","Industrie","Maschinenbau","https://www.trumpf.com","info@trumpf.com"
+"Dürr AG","Carl-Benz-Straße 34","74321","Bietigheim-Bissingen","Deutschland","Industrie","Anlagenbau","https://www.durr.com","info@durr.com"
+"Krones AG","Böhmerwaldstraße 5","93073","Neutraubling","Deutschland","Industrie","Verpackungsmaschinen","https://www.krones.com","info@krones.com"
+"GROB-WERKE GmbH & Co. KG","Industriestraße 4","87719","Mindelheim","Deutschland","Industrie","Werkzeugmaschinen","https://www.grobgroup.com","info@grobgroup.com"
+"SEW-EURODRIVE GmbH & Co KG","Ernst-Blickle-Straße 42","76646","Bruchsal","Deutschland","Industrie","Antriebstechnik","https://www.sew-eurodrive.de","sew@sew-eurodrive.de"
