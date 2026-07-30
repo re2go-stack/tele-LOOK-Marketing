@@ -1,6 +1,6 @@
-# 🎨 Canva Master-Cheatsheet: Die 6 Instagram Urlaubs-Posts (News-Jacking Edition 2026)
+# 🎨 Canva Master-Cheatsheet: Die 6 Instagram Urlaubs-Posts (DHZ News-Jacking Edition 2026)
 
-> **Regel:** Alle Posts beinhalten tagesaktuelle News-Hooks zu den Neuerungen des **Gebäudemodernisierungsgesetzes (GModG ab Juli 2026)** und den **neuen KfW-Förderrichtlinien**.
+> **Quelle & Regel:** Alle Posts orientieren sich an aktuellen Meldungen der **Deutschen Handwerks Zeitung (DHZ)**, der **EEG-Novelle 2027 (Kabinettsbeschluss 29.07.)** und dem **Gebäudemodernisierungsgesetz (GModG)**.
 
 ---
 
@@ -19,24 +19,26 @@
 
 ---
 
-### 1. Samstag, 01.08.2026 (09:00 Uhr) – Reel 01 (GModG News Hook)
+### 1. Samstag, 01.08.2026 (09:00 Uhr) – Reel 01 (DHZ News-Hook: EEG-Novelle 2027)
 * **Format:** Instagram Reel (9:16, 15 Sek.)
 * **Canva Template:** "Minimalist Tech / Business Reel"
 * **On-Screen Text:**  
-  *00:00 - 00:03:* `"Neues Gebäudemodernisierungsgesetz seit Juli 2026..."`  
-  *00:03 - 00:08:* `"Kunden rufen stundenlang im SHK-Betrieb an: 'Was gilt jetzt bei mir?'"`  
-  *00:08 - 00:15:* `"Mit tele-LOOK schaltet sich der Meister in 60 Sek. per Video in den Heizungskeller. Ohne Anfahrt!"`
+  *00:00 - 00:03:* `"Laut DHZ: Kabinett beschließt EEG-Novelle (Einspeisevergütung vor dem Aus)..."`  
+  *00:03 - 00:08:* `"Kunden stürmen Handwerksbetriebe: 'Wie koppele ich meine PV-Anlage mit der Wärmepumpe?'"`  
+  *00:08 - 00:15:* `"Mit tele-LOOK prüft der Meister Zählerschrank & Wechselrichter in 3 Min per Video-Link. Ohne Anfahrt!"`
 * **Inhaltsplaner Caption:**
 ```text
-Das neue Gebäudemodernisierungsgesetz (GModG) ist da! 🚨🔥
+EEG-Novelle im Kabinett beschlossen! 🚨⚡ (Quelle: Deutsche Handwerks Zeitung - DHZ)
 
-Seit diesem Monat stürmen verunsicherte Hausbesitzer die Telefone der SHK-Betriebe. Jeder will wissen: Reicht mein Platz im Keller? Welche Förderung greift noch?
+Da die garantierte Einspeisevergütung ausläuft, wollen Hausbesitzer ihren Solarstrom jetzt direkt über die Wärmepumpe eigenverbrauchen. 
 
-Statt 1,5 Stunden im Auto zu sitzen, um nur 'mal kurz zu schauen':
-Mit tele-LOOK wirfst du vorab einen Blick per Live-Video auf den Heizungskeller – ohne App-Download für den Kunden!
+Für Elektro- & SHK-Betriebe bedeutet das: Ein gigantischer Ansturm an Beratungsanfragen!
+
+Statt für jeden Vorab-Check 45 Minuten im Stau zu stehen:
+Mit tele-LOOK schaltet sich der Meister per SMS-Link in 60 Sekunden auf den Zählerschrank & Wechselrichter – ohne App-Download für den Kunden!
 
 👉 Amortisiert sich ab der 1. Beratung. Link in der Bio!
-#gmodg #heizungsgesetz #shk #handwerk #telelook #wärmepumpe
+#dhz #eegnovelle #photovoltaik #wärmepumpe #shk #elektro #telelook
 ```
 
 ---
@@ -65,22 +67,22 @@ tele-LOOK ist zu 100 % DSGVO-konform und läuft ohne App direkt im Browser.
 
 ---
 
-### 3. Mittwoch, 05.08.2026 (10:00 Uhr) – Reel 02 (KfW Förder-Update Hook)
+### 3. Mittwoch, 05.08.2026 (10:00 Uhr) – Reel 02 (DHZ News-Hook: GModG / KfW)
 * **Format:** Instagram Reel (9:16, 15 Sek.)
 * **On-Screen Text:**  
-  *00:00 - 00:03:* `"Neue KfW-Förderregeln ab Juli 2026..."`  
-  *00:03 - 00:08:* `"Kunde braucht sofort eine Erstdiagnose für den Förderantrag?"`  
+  *00:00 - 00:03:* `"GModG & neue KfW-Förderregeln seit Juli 2026..."`  
+  *00:03 - 00:08:* `"Kunde braucht sofort einen Vorab-Check für den Förderantrag?"`  
   *00:08 - 00:15:* `"tele-LOOK: 1 SMS-Link ➔ HD-Fotoprotokoll direkt im System!"`
 * **Inhaltsplaner Caption:**
 ```text
-Achtung bei der KfW-Heizungsförderung 2026! 💶📋
+Neuerungen beim Gebäudemodernisierungsgesetz (GModG) & der KfW 2026! 📋💶
 
-Seit den Anpassungen im Juli zählt beim Förderantrag jede Dokumentation. 
+Seit den jüngsten Beschlüssen zählt bei der Heizungsförderung jede lückenlose Dokumentation. 
 
 Mit tele-LOOK erstellst du beim Remote-Check mit 1 Klick fälschungssichere HD-Fotoprotokolle mit Zeitstempel für die Förderakte – ohne extra Anfahrt.
 
 👉 Teste es jetzt kostenlos – Link in der Bio!
-#kfw #förderung #wärmepumpe #handwerk #telelook
+#gmodg #kfw #förderung #wärmepumpe #handwerk #telelook
 ```
 
 ---
