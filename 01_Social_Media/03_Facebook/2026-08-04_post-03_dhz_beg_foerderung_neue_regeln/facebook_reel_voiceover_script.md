@@ -16,9 +16,9 @@
 >
 > *Und das Problem? Für jeden 5-Minuten-Vorab-Check im Keller 45 Minuten im Stau stehen kostete bisher unzählige Arbeitsstunden.*
 >
-> *Die Lösung: Der Remote-Check per Smartphone-Video! Der Kunde klickt auf einen SMS-Link, Ihr seht den Keller vom Büro aus und speichert HD-Fotos mit Zeitstempel direkt für die Förderakte.*
+> *"Die Lösung: Der Remote-Check per Video!*
 >
-> *Alle Infos & KfW-Links findet Ihr im Ratgeber auf tele-look.com!"*
+> *Alle Infos und Links findet Ihr im Ratgeber auf tele-look.com!"*
 
 ---
 
