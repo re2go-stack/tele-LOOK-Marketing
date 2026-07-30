@@ -380,11 +380,20 @@
     <!-- FAQ SECTION (STRUCTURAL MICRODATA & SCHEMA.ORG FAQPAGE) -->
     <section id="faq" class="py-20 bg-slate-50 dark:bg-slate-900 border-t border-slate-100 dark:border-slate-800" itemscope itemtype="https://schema.org/FAQPage">
         <div class="max-w-3xl mx-auto px-6">
-            <div class="text-center mb-12">
+            <div class="text-center mb-10">
                 <span class="inline-block px-4 py-1.5 rounded-full bg-brand/10 dark:bg-cyan-900/30 text-brand dark:text-cyan-400 text-xs font-black uppercase tracking-widest mb-4">Häufige Fragen (FAQ)</span>
-                <h2 class="text-3xl font-montserrat font-black text-slate-900 dark:text-white">Fragen zur BEG-Förderung & Remote-Dokumentation</h2>
+                <h2 class="text-3xl font-montserrat font-black text-slate-900 dark:text-white mb-4">Fragen zur BEG-Förderung & Remote-Dokumentation</h2>
             </div>
             
+            <!-- MANDATORY LEGAL DISCLAIMER NOTICE BOX -->
+            <div class="p-5 rounded-2xl bg-amber-50/90 dark:bg-amber-950/30 border border-amber-200/80 dark:border-amber-900/50 text-amber-900 dark:text-amber-200 text-xs leading-relaxed mb-8 flex items-start gap-3.5 shadow-sm">
+                <span class="text-xl flex-shrink-0">⚠️</span>
+                <div>
+                    <strong class="font-extrabold text-amber-950 dark:text-amber-100 block mb-1">Rechtlicher Hinweis zu unseren FAQ & Ratgeber-Beiträgen:</strong>
+                    tele-LOOK ist ein Softwareanbieter für Live-Video-Support und <strong>kein Energie- oder Rechtsberatungsunternehmen</strong>. Wir fassen nach bestem Wissen öffentlich zugängliche Informationen und Praxiserfahrungen (z. B. der KfW, BAFA, BMWE und Fachmedien wie der DHZ) zusammen. Sämtliche Angaben sind ohne Gewähr und stellen keine verbindliche Auskunft dar. Rechtskräftige Entscheidungen über Förderbewilligungen obliegen ausschließlich den zuständigen Behörden und Förderanstalten.
+                </div>
+            </div>
+
             <div class="space-y-4">
                 <!-- FAQ 1 -->
                 <div class="faq-item bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 overflow-hidden" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -394,7 +403,7 @@
                     </button>
                     <div class="faq-answer hidden px-6 pb-6 text-slate-600 dark:text-slate-400 text-sm leading-relaxed" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                         <div itemprop="text">
-                            Ja. Nach den Richtlinien der KfW und BAFA gilt das strikte Verbot des vorzeitigen Maßnahmebeginns. Der Förderantrag muss zwingend vor Abschluss eines rechtsverbindlichen Liefer- oder Leistungsvertrags gestellt werden.
+                            Nach den aktuellen Richtlinien der KfW und BAFA gilt grundsätzlich das Verbot des vorzeitigen Maßnahmebeginns. Der Förderantrag muss nach unserem Kenntnisstand vor Abschluss eines Liefer- oder Leistungsvertrags gestellt werden. Bitte beachten Sie, dass verbindliche Auskünfte nur direkt über die KfW oder einen zertifizierten Energieberater bezogen werden können.
                         </div>
                     </div>
                 </div>
@@ -407,7 +416,7 @@
                     </button>
                     <div class="faq-answer hidden px-6 pb-6 text-slate-600 dark:text-slate-400 text-sm leading-relaxed" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                         <div itemprop="text">
-                            Ja, tele-LOOK erzeugt hochauflösende Fotodokumentationen inklusive Notizen und kryptografischem Zeitstempel, die den IST-Zustand des Heizungskellers fälschungssicher belegen.
+                            tele-LOOK unterstützt Handwerker dabei, hochauflösende Fotodokumentationen inklusive Notizen und kryptografischem Zeitstempel zu erstellen. Diese dienen Betrieben zur sauberen Bestandsaufnahme des Heizungskellers. Ob die jeweilige Prüfbehörde im Einzelfall zusätzliche Nachweise fordert, liegt im Ermessen der zuständigen Prüfstelle.
                         </div>
                     </div>
                 </div>
@@ -420,7 +429,7 @@
                     </button>
                     <div class="faq-answer hidden px-6 pb-6 text-slate-600 dark:text-slate-400 text-sm leading-relaxed" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                         <div itemprop="text">
-                            Nein. Der Handwerksbetrieb sendet einen SMS-Link. Ein Tippen auf den Link genügt, um die Live-Kamera direkt im Smartphone-Browser des Kunden zu starten.
+                            Nein. tele-LOOK ist rein browserbasiert. Der Handwerksbetrieb sendet einen SMS-Link, auf den der Kunde tippt, um die Kamera direkt im Smartphone-Browser zu öffnen.
                         </div>
                     </div>
                 </div>
@@ -527,7 +536,7 @@
               "name": "Muss der Förderantrag wirklich vor Vertragsabschluss gestellt werden?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ja. Nach den Richtlinien der KfW und BAFA gilt das strikte Verbot des vorzeitigen Maßnahmebeginns. Der Antrag muss vor Abschluss eines Liefer- oder Leistungsvertrags gestellt werden."
+                "text": "Nach den aktuellen Richtlinien der KfW und BAFA gilt grundsätzlich das Verbot des vorzeitigen Maßnahmebeginns. Der Förderantrag muss nach unserem Kenntnisstand vor Abschluss eines Liefer- oder Leistungsvertrags gestellt werden."
               }
             },
             {
