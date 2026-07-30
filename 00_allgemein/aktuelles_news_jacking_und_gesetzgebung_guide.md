@@ -3,8 +3,19 @@
 > **PRIMÄRE BRACHENS-QUELLE:**  
 > **Deutsche Handwerks Zeitung (DHZ)** (`dhz.net`) sowie die Fachverbände **ZDH** (Zentralverband des Deutschen Handwerks) & **ZVEH**.
 >
+> **OFFIZIELLE VERMITTLUNGS- & FÖRDER-QUELLEN (BMWE, KFW, BAFA):**
+> * **BMWE (Energiewechsel):** `www.energiewechsel.de` | Hotline: `0800 0115 000`
+> * **KfW Heizungsförderung (BEG EM):**
+>   * Privatpersonen (Wohngebäude): `www.kfw.de/458`
+>   * Unternehmen (Wohngebäude): `www.kfw.de/459`
+>   * Unternehmen (Nichtwohngebäude): `www.kfw.de/522`
+>   * Kommunen: `www.kfw.de/422`
+>   * Hotline: `0800 5 39 90 13`
+> * **KfW Effiziente Sanierung:** `www.kfw.de/261` (Wohnen) | `www.kfw.de/263` (Nichtwohnen)
+> * **BAFA Einzelmaßnahmen (Dämmung, Fenster, Netz):** `www.bafa.de/beg` | Hotline: `06196 908 1625`
+>
 > **GRUNDSATZ-REGEL:**  
-> Jeder Social-Media-Beitrag (LinkedIn, Instagram, Facebook) und jede Pressemeldung **MUSS sich an aktuellen DHZ-Nachrichten, Gesetzgebungs-Novellen (EEG 2027, GModG / GEG, BEG-Förderung) und Branchen-News orientieren**.
+> Jeder Social-Media-Beitrag (LinkedIn, Instagram, Facebook) und jede Pressemeldung **MUSS sich an aktuellen DHZ-Nachrichten, Gesetzgebungs-Novellen (EEG 2027, GModG / GEG, BEG-Förderung) und den offiziellen KfW/BAFA-Richtlinien orientieren**.
 
 ---
 
@@ -16,33 +27,19 @@
 * **Der Schmerzpunkt im Handwerk:** Elektro- & SHK-Betriebe werden von Kunden mit Anfragen zur PV-Wärmepumpen-Nachrüstung überrollt.
 * **Der tele-LOOK Link:** Der Elektro-/SHK-Meister nutzt tele-LOOK für den **"3-Minuten-PV-Wärmepumpen-Remote-Check"**. Er schaltet sich per SMS-Link auf Zählerschrank, Wechselrichter & Heizung zu – **ohne 1,5 Stunden im Auto zu sitzen**.
 
-### B. Gebäudeenergiegesetz-Ablösung durch das **Gebäudemodernisierungsgesetz (GModG)** (DHZ Juli 2026)
-* **Die Fakten:** Wegfall der strikten 65%-Erneuerbare-Energien-Pflicht. Einführung der **"Bio-Treppe"** (stufenweise Pflicht zur Beimischung von 10% Biomethan ab 2029 bis 60% im Jahr 2040).
-* **Der Schmerzpunkt im Handwerk:** Erklärungsnot im Kundendienst. Kunden verlangen Sofort-Beratung, welche Heizung sich zukunftssicher amortisiert.
-* **Der tele-LOOK Link:** Die **"Remote-Erstberatung in 60 Sekunden"**. Visueller Vorab-Check des Heizungskellers per Smartphone-Kamera des Kunden.
+### B. Gebäudeenergiegesetz-Ablösung durch das **Gebäudemodernisierungsgesetz (GModG)** & BEG-Förderung (DHZ 21.07.2026)
+* **Die Fakten:** Förderstopp aufgehoben. Neue Obergrenze 28.000 € für die 1. Wohneinheit bei der KfW. Pflicht zur Antragstellung VOR Baubeginn.
+* **Der Schmerzpunkt im Handwerk:** Erklärungsnot im Kundendienst. Kunden verlangen Sofort-Beratung, welche Heizung sich zukunftssicher amortisiert und welche Nachweise für die KfW vorab gefordert sind.
+* **Der tele-LOOK Link:** Die **"Remote-Erstberatung in 60 Sekunden"** inkl. automatischer Generierung eines fälschungssicheren HD-Fotoprotokolls mit Zeitstempel für den KfW/BAFA-Antrag.
 
 ---
 
-## 2. PRIMÄRE LEITMEDIEN FÜR DAS AUTOMATISCHE NEWS-CHECKING
-
-Vor der Erstellung eines neuen Content-Pieces werden diese 4 Leitmedien geprüft:
-
-```mermaid
-graph LR
-    DHZ[1. Deutsche Handwerks Zeitung / dhz.net] --> CONTENT[tele-LOOK Content Hook]
-    ZDH[2. ZDH / ZVEH Pressemitteilungen] --> CONTENT
-    IKZ[3. IKZ Haustechnik & KKA] --> CONTENT
-    KFW[4. KfW / BWP Bundesverband Wärmepumpe] --> CONTENT
-```
-
----
-
-## 3. FORMEL FÜR DEINE POSTS & PRESSEMITTEILUNGEN
+## 2. FORMEL FÜR DEINE POSTS & PRESSEMITTEILUNGEN
 
 ```text
-[1. DHZ NEWS-HOOK] 🚨 "Laut aktueller Meldung der Deutschen Handwerks Zeitung (DHZ) hat das Kabinett die EEG-Novelle beschlossen..."
+[1. DHZ NEWS-HOOK] 🚨 "Laut aktueller Meldung der Deutschen Handwerks Zeitung (DHZ) gilt bei der BEG-Heizungsförderung ab sofort die 28.000 € Obergrenze..."
         ↓
-[2. SCHMERZPUNKT]  💥 "Für Elektro- & SHK-Betriebe bedeutet das: Telefone stehen nicht mehr still, weil Kunden ihre PV-Anlage sofort mit der Wärmepumpe koppeln wollen."
+[2. SCHMERZPUNKT]  💥 "Für SHK-Betriebe bedeutet das: Kunden wollen Sofort-Prüfungen vor Antragstellung (www.kfw.de/458). Meister ersticken in Vorab-Fahrten."
         ↓
-[3. TELE-LOOK USP] 💡 "Statt für jeden Vorab-Check 45 Min im Stau zu stehen: Mit tele-LOOK schaltet sich der Meister in 60 Sek. per SMS-Link auf Zählerschrank & Heizung. Ohne App-Download!"
+[3. TELE-LOOK USP] 💡 "Statt für jeden Vorab-Check 45 Min im Stau zu stehen: Mit tele-LOOK schaltet sich der Meister in 60 Sek. per SMS-Link auf den Heizungskeller und erstellt ein HD-Fotoprotokoll für die KfW-Akte!"
 ```

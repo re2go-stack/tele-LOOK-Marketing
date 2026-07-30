@@ -32,6 +32,11 @@ Er prüft Rohre, Platzverhältnisse und Zählerkasten visuell am Bildschirm und 
 
 Keine 45 Min Anfahrt. Keine vergebliche Fahrtzeit. 100 % rechtssicher.
 
+📌 Service-Links für Betriebe & Kunden:
+• KfW Heizungsförderung Wohngebäude: www.kfw.de/458 (Hotline: 0800 5 39 90 13)
+• BAFA Einzelmaßnahmen (Dämmung, Netz): www.bafa.de/beg
+• BMWE Energiewechsel Portal: www.energiewechsel.de
+
 Wie handhabt Ihr in eurem Betrieb aktuell den Ansturm auf die neuen Förderanträge? Hinterlasst mir eure Erfahrung in den Kommentaren! 👇
 
 ---
@@ -43,7 +48,7 @@ Wie handhabt Ihr in eurem Betrieb aktuell den Ansturm auf die neuen Förderantr�
 ## 2. KEY VISUAL & GRAFIK-EMPFEHLUNG (CANVA / UNTERNEHMENSDESIGN)
 
 * **Grafik-Typ:** Einzelbild (1080x1350 px, Portrait) im tele-LOOK Brand-Design
-* **Badge oben:** `[ DHZ AKTUELL | KFÜ / BEG FÖRDERUNG ]`
+* **Badge oben:** `[ DHZ AKTUELL | KfW / BEG FÖRDERUNG ]`
 * **Zentrale Überschrift:** `BEG-Förderung läuft wieder: Neue Regeln & 28.000 € Grenze!`
 * **Unterüberschrift:** `So dokumentieren SHK-Betriebe den Bestand jetzt per Video in 60 Sekunden – ohne Anfahrt.`
 * **Visual:** Screenshot von tele-LOOK (AR-tele-PUNKT auf Heizungskessel) kombiniert mit Förder-Icon.
