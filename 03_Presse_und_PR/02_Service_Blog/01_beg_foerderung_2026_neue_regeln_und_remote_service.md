@@ -1,90 +1,82 @@
-# BEG-Förderung 2026: Neue KfW-Regeln & wie SHK-Betriebe die Ansturm-Welle per Remote-Service meistern
+# BEG-Förderung 2026: Neue KfW-Regeln & Remote-Check im Handwerk
 
-* **Veröffentlichungsdatum:** 04.08.2026
-* **Kategorie:** Service-Blog & Branchen-News
-* **SEO Meta-Title:** `BEG-Förderung 2026: Neue Regeln & Remote-Service für SHK-Betriebe | tele-LOOK`
-* **SEO Meta-Description:** `BEG-Förderung 2026 wieder gestartet: Alle neuen KfW & BAFA Regeln im Überblick + So dokumentieren Handwerksbetriebe den Bestand ohne Anfahrt per Video.`
-* **Ziel-Keywords:** `BEG-Förderung 2026`, `KfW Heizungsförderung 28000 Euro`, `Remote Erstberatung Handwerk`, `tele-LOOK HD-Fotoprotokoll`, `Wärmepumpe Förderung Nachweis`
-
----
-
-# BEG-Förderung 2026: Neue KfW-Regeln & wie SHK-Betriebe die Ansturm-Welle per Remote-Service meistern
-
-Nach einem kurzen Förderstopp können Hausbesitzer und Betriebe seit dem 21. Juli 2026 wieder staatliche Anträge für den Heizungstausch und die energetische Gebäudesanierung bei der KfW und der BAFA stellen. Wie die *Deutsche Handwerks Zeitung (DHZ)* berichtet, ist die Erleichterung im Handwerk groß – allerdings haben sich die Förderbedingungen und Fristen spürbar verändert.
-
-Für SHK-Handwerksbetriebe, Elektroinstallateure und Gebäudeenergieberater bedeutet der Neustart vor allem eines: **Das Telefon steht nicht mehr still.** Eigentümer verlangen sofortige Vorab-Einschätzungen und lückenlose Nachweise für ihre Förderanträge.
-
-In diesem Beitrag fassen wir die wichtigsten gesetzlichen Neuerungen zusammen und zeigen, wie zukunftsorientierte Betriebe die Vorab-Dokumentation in unter 3 Minuten per Live-Video erledigen – ganz ohne Anfahrtskosten.
+**Kategorie:** Gesetzgebung & Förderungen  
+**Veröffentlicht:** 21.07.2026 | **Aktualisiert:** 30.07.2026  
+**Quelle:** Deutsche Handwerks Zeitung (DHZ), KfW, BAFA  
+**Fachlich geprüft von:** SHK-Meistern & Gebäudeenergieberatern  
 
 ---
 
-## Die wichtigsten Neuerungen der BEG-Förderung im Überblick
+## 📌 Zusammenfassung
 
-```mermaid
-graph TD
-    BEG[BEG-Förderung 2026 wieder aktiv] --> K1[Neuer Förderhöchstbetrag: 28.000 € für 1. WE]
-    BEG --> K2[Wegfall von Boni: Effizienzbonus gestrichen]
-    BEG --> K3[Halbjährliche Degression ab Feb 2027 um 750 €]
-    BEG --> K4[Einkommensbonus gestaffelt bis 40%]
-```
+Die Bundesförderung für effiziente Gebäude (BEG) läuft nach dem vorübergehenden Förderstopp bei der KfW und der BAFA wieder an. Hausbesitzer und SHK-Betriebe stehen nun vor geänderten Höchstgrenzen, gestaffelten Boni und strengen Antragsfristen. 
 
-### 1. Gesenkter Förderhöchstbetrag für Wohngebäude
-Für den Einbau einer klimafreundlichen Heizung (wie Wärmepumpen oder Hybridsystemen) gilt bei der KfW ab sofort ein verminderter Förderhöchstbetrag von **28.000 Euro für die erste Wohneinheit** (bisher 30.000 Euro). 
-* Für die 2. bis 6. Wohneinheit betragen die förderfähigen Kosten je 15.000 Euro.
-* Für jede weitere Wohneinheit je 8.000 Euro.
-
-### 2. Halbjährliche Degression ab 2027
-Wer den Heizungstausch aufschiebt, verliert bares Geld: Der Förderhöchstbetrag sinkt ab dem **1. Februar 2027 halbjährlich um jeweils 750 Euro**.
-
-### 3. Wegfall von Boni & Strikte Antrags-Pflicht
-* Der bisherige **Effizienzbonus** für Wärmepumpen mit natürlichen Kältemitteln ist entfallen.
-* **Das goldene Gesetz:** Der Förderantrag muss **zwingend VOR Beginn des Bauvorhabens** (vor Liefer- oder Leistungsvertrag) gestellt werden.
+In diesem Ratgeber erfahren Sie alle wichtigen Eckdaten der neuen Richtlinien und wie moderne Handwerksbetriebe die geforderte Vorab-Bestandsaufnahme per Live-Video in unter 3 Minuten ohne Anfahrt erledigen.
 
 ---
 
-## Das Problem für Handwerksbetriebe: Der Beratungsvorlauf kollabiert
+## 🏛️ 1. Die wichtigsten Änderungen der BEG-Förderung 2026 im Überblick
 
-Durch die neuen Regelungen wollen Kunden vor der Antragstellung garantiert wissen, ob ihre Immobilie die Voraussetzungen erfüllt und welcher Förderbaustein greift. 
+Nach aktuellen Beschlüssen der Bundesregierung gelten für die Heizungsförderung (Produkt KfW 458 für Wohngebäude) folgende Kernvorgaben:
 
-Wenn ein SHK-Meister für jede unverbindliche Vorab-Besichtigung **45 Minuten hin- und 45 Minuten zurückfährt**, entstehen horrende Anfahrtskosten, die sich selten komplett abrechnen lassen. Wertvolle Handwerkerstunden gehen auf der Straße verloren.
-
----
-
-## Die Lösung: Der 3-Minuten-Remote-Check mit tele-LOOK
-
-Zukunftsorientierte SHK-Betriebe setzen auf **"Digital First"** in der Vorab-Beratung:
-
-```mermaid
-graph LR
-    SMS[1. SMS an den Kunden senden] --> Video[2. Live-Kamera öffnet sich ohne App]
-    Video --> Foto[3. HD-Fotoprotokoll mit 1 Klick erzeugen]
-    Foto --> Antrag[4. Rechtssicherer KfW-Antrag fertig]
-```
-
-1. **Keine App-Hürde:** Der Meister sendet dem Kunden einen SMS-Link. Ein Klick genügt, und die Live-Kamera des Kunden-Smartphones überträgt das Bild direkt in den Browser des Meisters.
-2. **Präzise Anleitung mit dem tele-PUNKT:** Der Meister tippt auf seinen PC-Bildschirm und setzt einen visuellen AR-Laserpunkt direkt auf den Zählerschrank, den Kessel oder den Rohrdurchmesser.
-3. **Automatisches PDF-Fotoprotokoll:** Mit einem Klick erstellt tele-LOOK ein fälschungssicheres HD-Fotoprotokoll inklusive Notizen und Zeitstempel. Dieses Dokument dient direkt als sauberer Nachweis für die Förderakte.
+* **Neuer Förderhöchstbetrag:** Für die 1. Wohneinheit (z. B. ein Einfamilienhaus) liegt der förderfähige Betrag bei **28.000 Euro**. Für die 2. bis 6. Wohneinheit kommen jeweils 15.000 Euro hinzu, ab der 7. Wohneinheit je 8.000 Euro.
+* **Einkommensbonus (40 %):** Selbstnutzende Eigentümer mit einem zu versteuernden Haushaltseinkommen von bis zu 30.000 Euro pro Jahr erhalten weiterhin den erhöhten Einkommensbonus.
+* **Klimageschwindigkeitsbonus (16 %):** Dieser Bonus belohnt den zügigen Austausch alter Fossilsysteme. **Wichtig:** Ab dem 1. Februar 2027 sinkt dieser Bonus erstmals halbjährlich um 4 Prozentpunkte.
+* **Wegfall des Effizienzbonus:** Der bisherige Effizienzbonus ist ersatzlos gestrichen worden.
+* **Gesamtförderung gedeckelt:** Die Kumulierung aller Boni ist auf maximal **70 Prozent** begrenzt.
 
 ---
 
-## Wichtige Service-Kontakte & Förder-Links
+## ⏱️ 2. Die entscheidende Frist: Erst der Antrag, dann der Vertrag
 
-Für Handwerksbetriebe, Berater und Kunden haben wir die offiziellen Antragsseiten und Hotlines zusammengestellt:
+Die für Kunden und Handwerker wichtigste Regelung der KfW lautet:  
+**Der Förderantrag MUSS zwingend eingereicht werden, BEVOR der Vertrag mit dem Handwerksbetrieb unterschrieben wird.**
 
-* **KfW – Heizungsförderung Privatpersonen (BEG EM 458):**  
-  🔗 [www.kfw.de/458](https://www.kfw.de/458) | Hotline: `0800 5 39 90 13`
-* **KfW – Heizungsförderung Unternehmen (BEG EM 459 & 522):**  
-  🔗 [www.kfw.de/459](https://www.kfw.de/459) (Wohnen) | 🔗 [www.kfw.de/522](https://www.kfw.de/522) (Nichtwohngebäude)
-* **BAFA – Energetische Einzelmaßnahmen (Dämmung, Gebäudenetz):**  
-  🔗 [www.bafa.de/beg](https://www.bafa.de/beg) | Hotline: `06196 908 1625`
-* **Bundesministerium für Wirtschaft (BMWE Energiewechsel):**  
-  🔗 [www.energiewechsel.de](https://www.energiewechsel.de) | Hotline: `0800 0115 000`
+Ein nachträgliches Einreichen nach Liefer- oder Leistungsvertrag ist ausgeschlossen. Das bedeutet: Der SHK-Betrieb muss bereits im Stadium der ersten Angebotserstellung genau wissen, welche Gegebenheiten im Heizungskeller vorliegen, welche Leistung benötigt wird und ob das Objekt die technischen Voraussetzungen erfüllt.
 
 ---
 
-## Fazit: Zeit sparen & Erstlösungsquote maximieren
+## 🚗 3. Die Hürde im Alltag: Unnötige Diagnosefahrten vermeiden
 
-Die BEG-Förderung 2026 bringt klare Spielregeln, verlangt von Handwerkern aber ein effizientes Kundenmanagement. Wer Vorab-Inspektionen per Live-Video durchführt, spart pro Fall bis zu 350 Euro Anfahrtskosten und beschleunigt den Förderantrag für seine Kunden um Tage.
+Für den SHK-Kundendienst erzeugt diese Vorgabe eine spürbare Belastung:
 
-**Möchten Sie tele-LOOK in Ihrem SHK-Betrieb testen?**  
-👉 **[Jetzt 14 Tage kostenlos & unverbindlich testen – Keine Kreditkarte erforderlich](https://www.tele-look.com)**
+* **Hohes Anfrageaufkommen:** Kunden wollen vor einer Unterschrift schnelle Klarheit über ihre Chancen auf Förderung.
+* **Zeitmangel beim Meister:** Fährt ein Meister für jeden kurzen Blick auf Rohre, Zähler und Platzverhältnisse 45 Minuten hin und 45 Minuten zurück, blockiert er wertvolle Arbeitszeit.
+* **Problem unleserlicher Kundenfotos:** Fotos, die Kunden selbst per WhatsApp oder Mail schicken, sind oft unscharf, zeigen nicht die Typenschilder oder lassen die Raummaße vermissen.
+
+---
+
+## 📲 4. Die Praxislösung: Remote-Check in 60 Sekunden mit tele-LOOK
+
+Um diesen Teufelskreis zu durchbrechen, setzen immer mehr Betriebe auf den **Live-Video-Blick**:
+
+1. **SMS an den Kunden:** Der Meister oder der Innendienst sendet einen SMS-Link an das Smartphone des Kunden.
+2. **0 App-Installation:** Der Kunde klickt auf den Link und die Kamera öffnet sich direkt im Handy-Browser.
+3. **Live-Kamera-Check:** Der Meister sieht den Heizungsraum live am PC-Bildschirm, führt den Kunden kurz durch den Raum und markiert wichtige Stellen per Mausklick.
+4. **Automatisches HD-Fotoprotokoll:** Fotos mit Notizen und Zeitstempel werden direkt als PDF abgespeichert – perfekt als Dokumentation für die Förderakte.
+
+**Das Ergebnis:** 0 Minuten Anfahrt für den Meister, 100 % saubere Daten für das Angebot und eine schnelle Entscheidung für den Kunden.
+
+---
+
+## 🔗 5. Offizielle Links & Anlaufstellen
+
+* **KfW Privatpersonen (Wohngebäude - KfW 458):** [www.kfw.de/458](https://www.kfw.de/458)  
+  *Hotline:* 0800 5 39 90 13
+* **KfW Unternehmen (Wohngebäude - KfW 459):** [www.kfw.de/459](https://www.kfw.de/459)
+* **KfW Unternehmen (Nichtwohngebäude - KfW 522):** [www.kfw.de/522](https://www.kfw.de/522)
+* **BAFA Einzelmaßnahmen (Dämmung, Fenster, Netze):** [www.bafa.de/beg](https://www.bafa.de/beg)  
+  *Hotline:* 06196 908 1625
+* **BMWE Energiewechsel Portal:** [www.energiewechsel.de](https://www.energiewechsel.de)  
+  *Hotline:* 0800 0115 000
+
+---
+
+## ⚠️ Rechtlicher Hinweis
+
+*tele-LOOK ist ein Softwareanbieter für Live-Video-Support und kein Energie- oder Rechtsberatungsunternehmen. Wir fassen öffentlich zugängliche Informationen und Praxiserfahrungen nach bestem Wissen zusammen. Sämtliche Angaben sind ohne Gewähr. Verbindliche Auskünfte erteilen ausschließlich die KfW, die BAFA sowie zertifizierte Gebäudeenergieberater.*
+
+---
+
+👉 **Möchten Sie tele-LOOK in Ihrem Betrieb testen?**  
+Erfahren Sie mehr unter [www.tele-look.com/web/shk](https://www.tele-look.com/web/shk) oder testen Sie tele-LOOK 14 Tage kostenlos.

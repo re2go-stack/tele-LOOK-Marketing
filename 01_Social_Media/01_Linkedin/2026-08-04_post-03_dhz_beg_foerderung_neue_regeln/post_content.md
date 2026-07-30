@@ -9,7 +9,7 @@
 
 ## 📝 Post-Text (LinkedIn)
 
-Der Förderstopp ist beendet – die Heizungsförderung (BEG) bei KfW und BAFA läuft wieder an. 🏛️⚡
+Förderstopp beendet – aber mit neuen Regeln: Was SHK-Betriebe jetzt wissen müssen 🏛️⚡
 
 Wie die *Deutsche Handwerks Zeitung (DHZ)* berichtet, gelten seit dem Neustart jedoch angepasste Höchstbeträge und Fristen:
 

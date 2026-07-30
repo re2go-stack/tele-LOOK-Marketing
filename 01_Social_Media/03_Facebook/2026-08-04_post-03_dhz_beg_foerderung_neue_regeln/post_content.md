@@ -9,7 +9,7 @@
 
 ## 📝 Post-Text (Facebook)
 
-Die BEG-Heizungsförderung läuft wieder! 🛠️🔥
+Neue KfW-Regeln da! So spart ihr euch die Anfahrt beim Förder-Check 🛠️🔥
 
 Die Bundesregierung hat den Neustart beschlossen, aber bei KfW und BAFA gelten ein paar neue Spielregeln:
 
